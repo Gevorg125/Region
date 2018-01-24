@@ -1,10 +1,25 @@
 namespace: frontend\tests
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
 actor: Tester
 paths:
     tests: tests
     log: tests/_output
     data: tests/_data
     helpers: tests/_support
+<<<<<<< HEAD
+=======
+actor_suffix: Tester
+paths:
+    tests: tests
+    output: tests/_output
+    data: tests/_data
+    support: tests/_support
+>>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
 settings:
     bootstrap: _bootstrap.php
     colors: true

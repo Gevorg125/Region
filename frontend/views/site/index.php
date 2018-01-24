@@ -1,5 +1,22 @@
 <?php
 
+<<<<<<< HEAD
+
+/* @var $this yii\web\View */
+use frontend\widgets\MapWidget;
+
+use frontend\widgets\CategoryWidget;
+$this->title = 'My Yii Application';
+
+?>
+
+ <div>   <?= MapWidget::widget(); ?></div>
+<div><?= CategoryWidget::widget(); ?></div>
+
+
+
+
+=======
 /* @var $this yii\web\View */
 
 $this->title = 'My Yii Application';
@@ -51,3 +68,4 @@ $this->title = 'My Yii Application';
 
     </div>
 </div>
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619

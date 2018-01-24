@@ -18,6 +18,13 @@ use frontend\models\ContactForm;
  */
 class SiteController extends Controller
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    
+
+=======
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
     /**
      * @inheritdoc
      */
@@ -48,6 +55,10 @@ class SiteController extends Controller
             ],
         ];
     }
+<<<<<<< HEAD
+>>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
 
     /**
      * @inheritdoc
@@ -75,6 +86,57 @@ class SiteController extends Controller
         return $this->render('index');
     }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+    /**
+     * Displays contact page.
+     *
+     * @return mixed
+     */
+=======
+    /**
+     * Logs in a user.
+     *
+     * @return mixed
+     */
+//    public function actionLogin()
+//    {
+//        if (!Yii::$app->user->isGuest) {
+//            return $this->goHome();
+//        }
+//
+//        $model = new LoginForm();
+//        if ($model->load(Yii::$app->request->post()) && $model->login()) {
+//            return $this->goBack();
+//        } else {
+//            $model->password = '';
+//
+//            return $this->render('login', [
+//                'model' => $model,
+//            ]);
+//        }
+//    }
+//
+//    /**
+//     * Logs out the current user.
+//     *
+//     * @return mixed
+//     */
+//    public function actionLogout()
+//    {
+//        Yii::$app->user->logout();
+//
+//        return $this->goHome();
+//    }
+//
+//    /**
+//     * Displays contact page.
+//     *
+//     * @return mixed
+//     */
+>>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+=======
     /**
      * Logs in a user.
      *
@@ -113,6 +175,7 @@ class SiteController extends Controller
      *
      * @return mixed
      */
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
     public function actionContact()
     {
         $model = new ContactForm();
@@ -146,6 +209,11 @@ class SiteController extends Controller
      *
      * @return mixed
      */
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
     public function actionSignup()
     {
         $model = new SignupForm();
@@ -210,4 +278,8 @@ class SiteController extends Controller
             'model' => $model,
         ]);
     }
+<<<<<<< HEAD
+>>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
 }
