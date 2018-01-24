@@ -8,10 +8,10 @@ use common\models\search\LocalitySearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-<<<<<<< HEAD
+
 use yii\helpers;
-=======
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+
+
 
 /**
  * LocalityController implements the CRUD actions for Locality model.
@@ -71,11 +71,11 @@ class LocalityController extends Controller
         $model = new Locality();
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-<<<<<<< HEAD
+
             return $this->redirect(['view', 'id' => $model->id]);
-=======
+
             return $this->redirect(['view', 'id' => $model->ID]);
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+
         }
 
         return $this->render('create', [
@@ -95,11 +95,11 @@ class LocalityController extends Controller
         $model = $this->findModel($id);
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-<<<<<<< HEAD
+
             return $this->redirect(['view', 'id' => $model->id]);
-=======
-            return $this->redirect(['view', 'id' => $model->ID]);
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+
+       
+
         }
 
         return $this->render('update', [

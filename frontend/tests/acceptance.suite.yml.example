@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 class_name: AcceptanceTester
-=======
+
 suite_namespace: frontend\tests\acceptance
 actor: AcceptanceTester
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
-class_name: AcceptanceTester
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
+
 modules:
     enabled:
         - WebDriver:

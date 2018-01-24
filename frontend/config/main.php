@@ -20,21 +20,12 @@ return [
             'enableAutoLogin' => true,
             'identityCookie' => ['name' => '_identity-frontend', 'httpOnly' => true],
         ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-       'session' => [
-            // this is the name of the session cookie used for login on the frontend
-           'name' => 'advanced-frontend',
-=======
+
         'session' => [
             // this is the name of the session cookie used for login on the frontend
             'name' => 'advanced-frontend',
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
-       'session' => [
-            // this is the name of the session cookie used for login on the frontend
-           'name' => 'advanced-frontend',
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
+
         ],
         'log' => [
             'traceLevel' => YII_DEBUG ? 3 : 0,
@@ -48,10 +39,7 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
         /*
         'urlManager' => [
             'enablePrettyUrl' => true,
@@ -66,8 +54,7 @@ return [
             // following line will restrict access to admin controller from frontend application
             'as frontend' => 'dektrium\user\filters\FrontendFilter',
         ],
-<<<<<<< HEAD
-=======
+
 /*
         'urlManager' => [
            'class' => 'yii\web\UrlManager',
@@ -81,9 +68,7 @@ return [
 
             ],
         ],*/
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
     ],
     'params' => $params,
 ];

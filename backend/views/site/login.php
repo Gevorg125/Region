@@ -1,23 +1,15 @@
 <?php
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 use yii\helpers\Html;
 use yii\bootstrap\ActiveForm;
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
 
 /* @var $this yii\web\View */
 /* @var $form yii\bootstrap\ActiveForm */
 /* @var $model \common\models\LoginForm */
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
-use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
+
+
 
 $this->title = 'Login';
 $this->params['breadcrumbs'][] = $this->title;
@@ -45,8 +37,7 @@ $this->params['breadcrumbs'][] = $this->title;
         </div>
     </div>
 </div>
-<<<<<<< HEAD
-=======
+
 $this->title = 'Sign In';
 
 $fieldOptions1 = [
@@ -109,6 +100,4 @@ $fieldOptions2 = [
     </div>
     <!-- /.login-box-body -->
 </div><!-- /.login-box -->
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+

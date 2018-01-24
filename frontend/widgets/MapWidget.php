@@ -42,8 +42,8 @@ class MapWidget extends Widget
     public function run()
     {
         $l = new Locality();
-        $ll = json_encode($l->find()->select(['localityLat', 'localityLong', 'type'])->asArray()->all());
-
+        $ll = json_encode($l->find()->select(['lat', 'lng', 'type'])->asArray()->all());
+//print_r($ll);
         return $this->render('map',['ll'=> $ll]);
     }
 }

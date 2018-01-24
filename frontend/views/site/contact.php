@@ -1,31 +1,18 @@
 <?php
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 /* @var $this yii\web\View */
 
 use frontend\widgets\ContactWidget;
-
+use yii\widgets\ActiveForm;
+use yii\helpers\Html;
 $this->title = 'My Yii Application';
 
 ?>
 <div>
     <?= ContactWidget::widget();?>
-=======
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
-/* @var $this yii\web\View */
-/* @var $form yii\bootstrap\ActiveForm */
-/* @var $model \frontend\models\ContactForm */
 
-use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
-use yii\captcha\Captcha;
-
-$this->title = 'Contact';
-$this->params['breadcrumbs'][] = $this->title;
-?>
 <div class="site-contact">
     <h1><?= Html::encode($this->title) ?></h1>
 
@@ -57,8 +44,5 @@ $this->params['breadcrumbs'][] = $this->title;
         </div>
     </div>
 
-<<<<<<< HEAD
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
-=======
->>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
+
 </div>

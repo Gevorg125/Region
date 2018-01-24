@@ -42,10 +42,10 @@ class CategoryWidget extends Widget
             }else {
                 $result[$value['parent_id']]['child'][$value['id']] = &$value;
             }
-           // return $tree;
+            //print_r($tree);
         }
-    $treee = \GuzzleHttp\json_encode($tree);
-        return $this->render('category',['treee'=>$treee]);
+
+        return $this->render('category',['tree'=>$tree]);
     }
 
 }

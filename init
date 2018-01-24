@@ -6,12 +6,21 @@
  * In order to run in non-interactive mode:
  *
  * init --env=Development --overwrite=n
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
  *
  * @author Alexander Makarov <sam@rmcreative.ru>
  *
  * @link http://www.yiiframework.com/
  * @copyright Copyright (c) 2008 Yii Software LLC
  * @license http://www.yiiframework.com/license/
+<<<<<<< HEAD
+=======
+>>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+=======
+>>>>>>> fddf13a450a45c5ddcb8a4f100c99e3fb7693619
  */
 
 if (!extension_loaded('openssl')) {

@@ -18,11 +18,9 @@ class LocalitySearch extends Locality
     public function rules()
     {
         return [
-<<<<<<< HEAD
+
             [['id'], 'integer'],
-=======
-            [['ID'], 'integer'],
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+
             [['localityName', 'localityLat', 'localityLong'], 'safe'],
         ];
     }
@@ -63,11 +61,9 @@ class LocalitySearch extends Locality
 
         // grid filtering conditions
         $query->andFilterWhere([
-<<<<<<< HEAD
+
             'id' => $this->id,
-=======
-            'ID' => $this->ID,
->>>>>>> d8fd41d4d6fe830d5f958951e3fb4f871f4e8aa2
+
         ]);
 
         $query->andFilterWhere(['like', 'localityName', $this->localityName])
