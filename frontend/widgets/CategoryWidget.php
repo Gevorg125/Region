@@ -36,11 +36,11 @@ class CategoryWidget extends Widget
         $result = $x->find()->select(['id', 'parent_id', 'category_name'])->indexBy('id')->asArray()->all();
 
 
-        foreach ($result as $key => &$value ){
+        foreach ($result as $key => $value ){
             if($value['parent_id'] == 0){
-                $tree[$key] = &$value;
+                $tree[$key] = $value;
             }else {
-                $result[$value['parent_id']]['child'][$value['id']] = &$value;
+                $tree[$value['parent_id']]['child'][$value['id']] = $value;
             }
             //print_r($tree);
         }
