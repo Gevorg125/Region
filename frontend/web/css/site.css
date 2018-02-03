@@ -127,8 +127,12 @@ a.desc:after {
 /*map*/
 
 #map{
-    width: 100%;
-    height: 400px;
+    width: 99%;
+    height: 500px;
+}
+#axuryan{
+    width: 99%;
+    height: 500px;
 }
 
 

@@ -1,4 +1,4 @@
-9
+
 <aside class="main-sidebar">
 
     <section class="sidebar">
@@ -76,7 +76,7 @@
                     [
                         'label' => 'User Access',
                         'icon' => 'fa fa-key',
-                        'url' => ['#'],
+                        'url' => ['/admin/'],
                         'items' => [
                             ['label' => 'Route', 'icon' => '', 'url' => ['/admin/route/'], 'active' => Yii::$app->controller->id == 'route'],
                             ['label' => 'Assignment', 'icon' => '', 'url' => ['/admin/assignment/'], 'active' => Yii::$app->controller->id == 'assignment'],
@@ -85,16 +85,40 @@
                         ]
                     ],
                     [
-                        'label' => 'Configuration',
+                        'label' => 'Categories',
                         'icon' => 'fa fa-cogs',
-                        'url' => ['#'],
-                        'items' => [
-                            ['label' => 'Category', 'icon' => '', 'url' => ['/category/'], 'active' => Yii::$app->controller->id == 'category'],
-                            ['label' => 'Subject Report', 'icon' => '', 'url' => ['/subject-report/'], 'active' => Yii::$app->controller->id == 'subject-report'],
-                            ['label' => 'Country', 'icon' => '', 'url' => ['/country/'], 'active' => Yii::$app->controller->id == 'country'],
-                            ['label' => 'Region', 'icon' => '', 'url' => ['/region/'], 'active' => Yii::$app->controller->id == 'region'],
-                            ['label' => 'City', 'icon' => '', 'url' => ['/city/'], 'active' => Yii::$app->controller->id == 'city'],
-                        ]
+                        'url' => ['/categories/'],
+//                        'items' => [
+//                            ['label' => 'Category', 'icon' => '', 'url' => ['/category/'], 'active' => Yii::$app->controller->id == 'category'],
+//                            ['label' => 'Subject Report', 'icon' => '', 'url' => ['/subject-report/'], 'active' => Yii::$app->controller->id == 'subject-report'],
+//                            ['label' => 'Country', 'icon' => '', 'url' => ['/country/'], 'active' => Yii::$app->controller->id == 'country'],
+//                            ['label' => 'Region', 'icon' => '', 'url' => ['/region/'], 'active' => Yii::$app->controller->id == 'region'],
+//                            ['label' => 'City', 'icon' => '', 'url' => ['/city/'], 'active' => Yii::$app->controller->id == 'city'],
+//                        ]
+                    ],
+                    [
+                        'label' => 'Menu',
+                        'icon' => 'fa fa-cogs',
+                        'url' => ['/menu/'],
+//                        'items' => [
+//                            ['label' => 'Category', 'icon' => '', 'url' => ['/category/'], 'active' => Yii::$app->controller->id == 'category'],
+//                            ['label' => 'Subject Report', 'icon' => '', 'url' => ['/subject-report/'], 'active' => Yii::$app->controller->id == 'subject-report'],
+//                            ['label' => 'Country', 'icon' => '', 'url' => ['/country/'], 'active' => Yii::$app->controller->id == 'country'],
+//                            ['label' => 'Region', 'icon' => '', 'url' => ['/region/'], 'active' => Yii::$app->controller->id == 'region'],
+//                            ['label' => 'City', 'icon' => '', 'url' => ['/city/'], 'active' => Yii::$app->controller->id == 'city'],
+//                        ]
+                    ],
+                    [
+                        'label' => 'Localities',
+                        'icon' => 'fa fa-cogs',
+                        'url' => ['/locality/'],
+//                        'items' => [
+//                            ['label' => 'Category', 'icon' => '', 'url' => ['/category/'], 'active' => Yii::$app->controller->id == 'category'],
+//                            ['label' => 'Subject Report', 'icon' => '', 'url' => ['/subject-report/'], 'active' => Yii::$app->controller->id == 'subject-report'],
+//                            ['label' => 'Country', 'icon' => '', 'url' => ['/country/'], 'active' => Yii::$app->controller->id == 'country'],
+//                            ['label' => 'Region', 'icon' => '', 'url' => ['/region/'], 'active' => Yii::$app->controller->id == 'region'],
+//                            ['label' => 'City', 'icon' => '', 'url' => ['/city/'], 'active' => Yii::$app->controller->id == 'city'],
+//                        ]
                     ],
 //                    ['label' => 'Login', 'url' => ['site/login'], 'visible' => Yii::$app->user->isGuest],
 

@@ -18,8 +18,8 @@ class CategoriesSearch extends Categories
     public function rules()
     {
         return [
-            [['id', 'parent_id'], 'integer'],
-            [['category_name'], 'safe'],
+            [['id', 'category_parent_id', 'locality_parent_id'], 'integer'],
+            [['name', 'title', 'route', 'keywords', 'description', 'data', 'order_name', 'date', 'img_name', 'active', 'type', 'lat', 'lng', 'locality_type'], 'safe'],
         ];
     }
 
@@ -60,10 +60,24 @@ class CategoriesSearch extends Categories
         // grid filtering conditions
         $query->andFilterWhere([
             'id' => $this->id,
-            'parent_id' => $this->parent_id,
+            'category_parent_id' => $this->category_parent_id,
+            'locality_parent_id' => $this->locality_parent_id,
+            'date' => $this->date,
         ]);
 
-        $query->andFilterWhere(['like', 'category_name', $this->category_name]);
+        $query->andFilterWhere(['like', 'name', $this->name])
+            ->andFilterWhere(['like', 'title', $this->title])
+            ->andFilterWhere(['like', 'route', $this->route])
+            ->andFilterWhere(['like', 'keywords', $this->keywords])
+            ->andFilterWhere(['like', 'description', $this->description])
+            ->andFilterWhere(['like', 'data', $this->data])
+            ->andFilterWhere(['like', 'order_name', $this->order_name])
+            ->andFilterWhere(['like', 'img_name', $this->img_name])
+            ->andFilterWhere(['like', 'active', $this->active])
+            ->andFilterWhere(['like', 'type', $this->type])
+            ->andFilterWhere(['like', 'lat', $this->lat])
+            ->andFilterWhere(['like', 'lng', $this->lng])
+            ->andFilterWhere(['like', 'locality_type', $this->locality_type]);
 
         return $dataProvider;
     }

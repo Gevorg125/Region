@@ -2,7 +2,7 @@
 
 use yii\helpers\Html;
 use yii\grid\GridView;
-
+use yii\widgets\Pjax;
 /* @var $this yii\web\View */
 /* @var $searchModel common\models\search\CategoriesSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
@@ -13,6 +13,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="categories-index">
 
     <h1><?= Html::encode($this->title) ?></h1>
+    <?php Pjax::begin(); ?>
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
     <p>
@@ -25,11 +26,26 @@ $this->params['breadcrumbs'][] = $this->title;
         'columns' => [
             ['class' => 'yii\grid\SerialColumn'],
 
-            'id',
-            'parent_id',
-            'category_name',
+           // 'id',
+            'category_parent_id',
+            'locality_parent_id',
+            'name',
+            //'title',
+            'route',
+            //'keywords',
+            //'description',
+            //'data',
+            //'order_name',
+            //'date',
+            //'img_name',
+            //'active',
+            'type',
+            //'lat',
+            //'lng',
+            //'locality_type',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],
     ]); ?>
+    <?php Pjax::end(); ?>
 </div>

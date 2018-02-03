@@ -12,10 +12,11 @@ use yii\base\Widget;
 
 use common\models\Categories;
 
+
 class CategoryWidget extends Widget
 {
     public $message;
-
+    public $tree;
 
     public function init()
     {
@@ -27,25 +28,47 @@ class CategoryWidget extends Widget
         }
     }
 
+    public static function getMenuRecursive($parent)
+    {
+        $menus = Categories::find()
+            ->select(['id', 'category_parent_id', 'name'])
+            ->where(['category_parent_id' => $parent,
+                'type' => 'category' ] )
+            ->asArray()
+            ->all();
+        $tree = [];
+        foreach ($menus as $key => $val) {
+            $i = null;
+            if (!empty(static::getMenuRecursive($val['id']))) {
+                $i = static::getMenuRecursive($val['id']);
+            }
+            $tree[] = [
+                'name' => $val['name'],
+                'items' => $i,
+            ];
+        }
+
+        return $tree;
+    }
+
+   public static function print_list($menu)
+    {
+        echo '<ul >';
+        foreach ($menu as $list_item) {
+            echo '<li >';
+            echo "<a href='#'>{$list_item['name']}</a>";
+            if (array_key_exists('items', $list_item) && is_array($list_item['items']))
+                print_list($list_item['items']);
+            echo '</li>';
+        }
+        echo "</ul>";
+    }
+
     public function run()
 
     {
-        $tree = [];
-        $x = new Categories();
-
-        $result = $x->find()->select(['id', 'parent_id', 'category_name'])->indexBy('id')->asArray()->all();
-
-
-        foreach ($result as $key => $value ){
-            if($value['parent_id'] == 0){
-                $tree[$key] = $value;
-            }else {
-                $tree[$value['parent_id']]['child'][$value['id']] = $value;
-            }
-            //print_r($tree);
-        }
-
-        return $this->render('category',['tree'=>$tree]);
+        $menu = self::getMenuRecursive(0);
+        return $this->render('category', ['menu' => $menu]);
     }
 
 }

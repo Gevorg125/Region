@@ -7,7 +7,8 @@
  */
 namespace frontend\widgets;
 
-use common\models\Locality;
+use common\models\Categories;
+
 use Yii;
 use yii\base\Widget;
 
@@ -41,9 +42,9 @@ class MapWidget extends Widget
 
     public function run()
     {
-        $l = new Locality();
-        $ll = json_encode($l->find()->select(['lat', 'lng', 'type'])->asArray()->all());
-//print_r($ll);
+        $l = new Categories();
+        $ll = json_encode($l->find()->select(['name','lat', 'lng', 'locality_type'])->where(['type' => 'locality'])->asArray()->all());
+
         return $this->render('map',['ll'=> $ll]);
     }
 }

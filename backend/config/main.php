@@ -12,6 +12,10 @@ return [
     'controllerNamespace' => 'backend\controllers',
     'bootstrap' => ['log'],
     'modules' => [
+        'social' => [
+            // the module class
+            'class' => 'kartik\social\Module',
+            ],
         'mdm' => [
             'class' => 'mdm\admin\Module'
         ],
