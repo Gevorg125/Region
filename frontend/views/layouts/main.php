@@ -28,7 +28,6 @@ AppAsset::register($this);
     <?php $this->beginBody() ?>
 
     <div class="wrap">
-        
         <?= \frontend\widgets\AboutWidget::widget();?>
 
         <div class="container">

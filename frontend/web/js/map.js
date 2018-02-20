@@ -6,6 +6,7 @@
 
 var ll = document.getElementById('ll').value;
 var json_ll = JSON.parse(ll);
+console.log(json_ll);
 
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
@@ -21,7 +22,7 @@ function initMap() {
             icon: './region.png'
 
         },
-        vilage: {
+        village: {
             icon: './village.png'
         }
 
@@ -35,7 +36,7 @@ function initMap() {
             features[i] = {
                 position: new google.maps.LatLng(parseFloat(json_ll[i].lat), parseFloat(json_ll[i].lng)),
 
-                type: json_ll[i].locality_type,
+                type: json_ll[i].type,
                 name: json_ll[i].name
             };
         }

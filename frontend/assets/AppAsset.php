@@ -16,7 +16,8 @@ class AppAsset extends AssetBundle
     ];
     public $js = [
 
-        'js/map.js'
+        'js/map.js',
+        'js/lang.js',
 
     ];
     public $depends = [

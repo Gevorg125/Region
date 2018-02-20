@@ -93,16 +93,6 @@ return array (
       '@yii/authclient' => $vendorDir . '/yiisoft/yii2-authclient',
     ),
   ),
-  'dektrium/yii2-user' => 
-  array (
-    'name' => 'dektrium/yii2-user',
-    'version' => '9999999-dev',
-    'alias' => 
-    array (
-      '@dektrium/user' => $vendorDir . '/dektrium/yii2-user',
-    ),
-    'bootstrap' => 'dektrium\\user\\Bootstrap',
-  ),
   'mdmsoft/yii2-admin' => 
   array (
     'name' => 'mdmsoft/yii2-admin',
@@ -128,6 +118,61 @@ return array (
     'alias' => 
     array (
       '@kartik/sortable' => $vendorDir . '/kartik-v/yii2-sortable',
+    ),
+  ),
+  'dektrium/yii2-user' => 
+  array (
+    'name' => 'dektrium/yii2-user',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@dektrium/user' => $vendorDir . '/dektrium/yii2-user',
+    ),
+    'bootstrap' => 'dektrium\\user\\Bootstrap',
+  ),
+  'yiisoft/yii2-jui' => 
+  array (
+    'name' => 'yiisoft/yii2-jui',
+    'version' => '2.0.7.0',
+    'alias' => 
+    array (
+      '@yii/jui' => $vendorDir . '/yiisoft/yii2-jui',
+    ),
+  ),
+  'himiklab/yii2-sortable-grid-view-widget' => 
+  array (
+    'name' => 'himiklab/yii2-sortable-grid-view-widget',
+    'version' => '1.0.10.0',
+    'alias' => 
+    array (
+      '@himiklab/sortablegrid' => $vendorDir . '/himiklab/yii2-sortable-grid-view-widget',
+    ),
+  ),
+  'mihaildev/yii2-ckeditor' => 
+  array (
+    'name' => 'mihaildev/yii2-ckeditor',
+    'version' => '1.0.1.0',
+    'alias' => 
+    array (
+      '@mihaildev/ckeditor' => $vendorDir . '/mihaildev/yii2-ckeditor',
+    ),
+  ),
+  'codemix/yii2-localeurls' => 
+  array (
+    'name' => 'codemix/yii2-localeurls',
+    'version' => '1.7.0.0',
+    'alias' => 
+    array (
+      '@codemix/localeurls' => $vendorDir . '/codemix/yii2-localeurls',
+    ),
+  ),
+  'yiisoft/yii2-elasticsearch' => 
+  array (
+    'name' => 'yiisoft/yii2-elasticsearch',
+    'version' => '2.0.4.0',
+    'alias' => 
+    array (
+      '@yii/elasticsearch' => $vendorDir . '/yiisoft/yii2-elasticsearch',
     ),
   ),
 );

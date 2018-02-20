@@ -137,3 +137,46 @@ a.desc:after {
 
 
 
+/*language*/
+ nav .lang {
+    display: block;
+    padding: 0;
+    line-height: 0.875rem;
+    color: #484848;
+    vertical-align: middle;
+    background-color: transparent;
+    font-size: 0.8rem;
+    border: none;
+    border-radius: 0;
+    font-weight: 600;
+    -moz-appearance: none;
+}
+
+ nav .lang .drop-down {
+    position: relative;
+}
+nav .lang .drop-down .selected div {
+    display: block;
+    padding-right: 18px;
+    text-decoration: none;
+    color: #484848;
+}
+nav .lang .drop-down .selected div span {
+    line-height: 20.5px;
+    cursor: pointer;
+    color: #484848;
+    font-size: 16.07px;
+    display: block;
+    font-weight: bold;
+}
+nav .lang .drop-down .options ul {
+    display: none;
+    list-style: none;
+    width: 50px;
+    text-align: center;
+    min-width: 50px;
+    border: 1px solid;
+    flex-wrap: wrap;
+    position: absolute;
+    right: 0;
+}

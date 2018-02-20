@@ -22,21 +22,15 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'category_parent_id') ?>
 
-    <?= $form->field($model, 'locality_parent_id') ?>
-
-    <?= $form->field($model, 'name') ?>
-
     <?= $form->field($model, 'title') ?>
 
-    <?php // echo $form->field($model, 'route') ?>
+    <?= $form->field($model, 'route') ?>
 
-    <?php // echo $form->field($model, 'keywords') ?>
-
-    <?php // echo $form->field($model, 'description') ?>
+    <?= $form->field($model, 'description') ?>
 
     <?php // echo $form->field($model, 'data') ?>
 
-    <?php // echo $form->field($model, 'order_name') ?>
+    <?php // echo $form->field($model, 'order') ?>
 
     <?php // echo $form->field($model, 'date') ?>
 
@@ -44,13 +38,9 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'active') ?>
 
-    <?php // echo $form->field($model, 'type') ?>
+    <?php // echo $form->field($model, 'images') ?>
 
-    <?php // echo $form->field($model, 'lat') ?>
-
-    <?php // echo $form->field($model, 'lng') ?>
-
-    <?php // echo $form->field($model, 'locality_type') ?>
+    <?php // echo $form->field($model, 'videos') ?>
 
     <div class="form-group">
         <?= Html::submitButton(Yii::t('app', 'Search'), ['class' => 'btn btn-primary']) ?>

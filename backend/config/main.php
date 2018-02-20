@@ -23,7 +23,7 @@ return [
             'class' => 'dektrium\user\Module',
             'as backend' => 'dektrium\user\filters\BackendFilter',
 
-            'controllers' => ['profile', 'recovery', 'registration', 'settings'], // not allowed controller in 'backend'
+            'controllers' => ['profile', 'recovery',  'settings'], // not allowed controller in 'backend'
             'enableUnconfirmedLogin' => true,
             'confirmWithin' => 21600,
             'cost' => 12,
@@ -84,7 +84,7 @@ return [
             ]
         ],
         'request' => [
-            'csrfParam' => '_csrf-backend',
+            'csrfParam' => '_csrf-frontend',
         ],
         /*
             'urlManager' => [
@@ -114,11 +114,12 @@ return [
                 ],
             ],
         ],
-        /*  'user' => [
-              'identityClass' => 'common\models\User',
-              'enableAutoLogin' => true,
+         'user' => [
+//              'identityClass' => 'common\models\User',
+//            // 'baseUrl' => '/',
+//              'enableAutoLogin' => true,
               'identityCookie' => ['name' => '_identity-backend', 'httpOnly' => true],
-          ],*/
+          ],
 
     ],
 

@@ -2,10 +2,11 @@
 
 namespace frontend\widgets;
 
+use common\models\Locality;
 use common\models\Menu;
 use Yii;
 use yii\base\Widget;
-use common\models\Categories;
+
 
 
 class AboutWidget extends Widget
@@ -33,16 +34,17 @@ class AboutWidget extends Widget
         $menus =[];
         foreach ($menuID as $key => $val) {
 
-                $menus[$val['name']] = Categories::find()
-        
-                    ->where(['locality_parent_id' => $val['id']])
+
+                $menus[$val['name']] = Locality::find()
+
+                    ->where(['route' => $val['name']])
                     ->asArray()
                     ->all();
             }
 
 
         return $menus;
-
+    
 
     }
 

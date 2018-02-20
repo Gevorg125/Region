@@ -27,9 +27,9 @@ function print_list($menu)
             echo "<br>";
         }
     }
-}
+};
 
 print_r(print_list($menu));
 
-?>
+
 

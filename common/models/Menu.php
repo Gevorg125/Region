@@ -37,8 +37,8 @@ class Menu extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['name', 'title', 'active', 'keyword', 'locality_id'], 'required'],
-            [['parent', 'order', 'locality_id'], 'integer'],
+            [['name', 'title', 'active', 'keyword'], 'required'],
+            [['parent', 'order'], 'integer'],
             [['data'], 'string'],
             [['name'], 'string', 'max' => 128],
             [['route', 'title', 'keyword'], 'string', 'max' => 255],
@@ -62,7 +62,7 @@ class Menu extends \yii\db\ActiveRecord
             'title' => Yii::t('app', 'Title'),
             'active' => Yii::t('app', 'Active'),
             'keyword' => Yii::t('app', 'Keyword'),
-            'locality_id' => Yii::t('app', 'Locality ID'),
+
         ];
     }
 
@@ -85,7 +85,7 @@ class Menu extends \yii\db\ActiveRecord
     public function getLocality()
     {
         return Menu::getLocality()
-            ->hasOne(Locality::className(), ['id' => 'parent_id']);
+            ->hasOne(Categories::className(), ['id' => 'parent_id']);
         
     }
 }

@@ -6,7 +6,7 @@ use yii\widgets\DetailView;
 /* @var $this yii\web\View */
 /* @var $model common\models\Categories */
 
-$this->title = $model->name;
+$this->title = $model->title;
 $this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Categories'), 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
@@ -30,21 +30,16 @@ $this->params['breadcrumbs'][] = $this->title;
         'attributes' => [
             'id',
             'category_parent_id',
-            'locality_parent_id',
-            'name',
             'title',
             'route',
-            'keywords',
             'description',
             'data',
-            'order_name',
+            'order',
             'date',
             'img_name',
             'active',
-            'type',
-            'lat',
-            'lng',
-            'locality_type',
+            'images:ntext',
+            'videos:ntext',
         ],
     ]) ?>
 

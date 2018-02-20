@@ -31,9 +31,10 @@ class CategoryWidget extends Widget
     public static function getMenuRecursive($parent)
     {
         $menus = Categories::find()
-            ->select(['id', 'category_parent_id', 'name'])
+            ->select(['id', 'category_parent_id', 'route'])
             ->where(['category_parent_id' => $parent,
-                'type' => 'category' ] )
+                 ] )
+            ->orderBy('order')
             ->asArray()
             ->all();
         $tree = [];
@@ -43,7 +44,7 @@ class CategoryWidget extends Widget
                 $i = static::getMenuRecursive($val['id']);
             }
             $tree[] = [
-                'name' => $val['name'],
+                'name' => $val['route'],
                 'items' => $i,
             ];
         }

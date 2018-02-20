@@ -8,6 +8,7 @@ use common\models\search\CategoriesSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use common\models\Lang;
 
 /**
  * CategoriesController implements the CRUD actions for Categories model.
@@ -65,18 +66,36 @@ class CategoriesController extends Controller
     public function actionCreate()
     {
         $model = new Categories();
-
-        if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['view', 'id' => $model->id]);
+        $finalModel = [];
+        $activeLanguages = Lang::find()->where(['active' => '1'])->asArray()->all();
+        foreach ($activeLanguages as $lang) {
+            $langCode = $lang['code'];
+            $finalModel[$langCode] = $this->generateDynamicModelforLanguage($langCode);
+        }
+        if ($model->load(Yii::$app->request->post())) {
+            //title convert to route
+            $title = strtolower(trim($model->title));
+            $title = str_replace(" ", "-", $title);
+            $model->route = $title;
+            $model->data = json_encode(Yii::$app->request->post('DynamicModel'));
+            if ($model->save()) {
+//                return $this->redirect(['view', 'id' => $model->id]);
+                return $this->redirect(['index']);
+            } else {
+                print_r($model->getErrors());
+            }
+        } else {
+            return $this->render('create', [
+                'model' => $model,
+                'activeLanguages' => $activeLanguages,
+                'finalModel' => $finalModel
+            ]);
         }
 
-        return $this->render('create', [
-            'model' => $model,
-        ]);
     }
 
     /**
-     * Updates an existing Categories model.
+     * Updates an existing Locality model.
      * If update is successful, the browser will be redirected to the 'view' page.
      * @param integer $id
      * @return mixed
@@ -85,14 +104,34 @@ class CategoriesController extends Controller
     public function actionUpdate($id)
     {
         $model = $this->findModel($id);
-
-        if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['view', 'id' => $model->id]);
+        $finalModel = [];
+        $decodedContent = json_decode($model->data, true);
+        $activeLanguages = Lang::find()->where(['active' => '1'])->asArray()->all();
+        foreach ($activeLanguages as $lang) {
+            $langCode = $lang['code'];
+            $finalModel[$langCode] = $this->generateDynamicModelforLanguage($langCode);            //Loading content
+            $finalModel[$langCode]->name = $decodedContent[$langCode]['name'];
+            $finalModel[$langCode]->keywords = $decodedContent[$langCode]['keywords'];
+            $finalModel[$langCode]->description = $decodedContent[$langCode]['description'];
+            $finalModel[$langCode]->content = $decodedContent[$langCode]['content'];
         }
-
-        return $this->render('update', [
-            'model' => $model,
-        ]);
+        if ($model->load(Yii::$app->request->post())) {
+            $title = $model->title;
+            $title = str_replace(" ", "-", strtolower(trim($title)));
+            $model->route = $title;
+            $model->data = json_encode(Yii::$app->request->post('DynamicModel'));
+            if ($model->save()) {
+                return $this->redirect(['view', 'id' => $model->id]);
+            } else {
+                print_r($model->getErrors());
+            }
+        } else {
+            return $this->render('update', [
+                'model' => $model,
+                'activeLanguages' => $activeLanguages,
+                'finalModel' => $finalModel
+            ]);
+        }
     }
 
     /**
@@ -123,5 +162,16 @@ class CategoriesController extends Controller
         }
 
         throw new NotFoundHttpException(Yii::t('app', 'The requested page does not exist.'));
+    }
+    private function generateDynamicModelforLanguage($langCode)
+    {
+        $model = new \yii\base\DynamicModel([
+            'name',
+            'keywords',
+            'description',
+            'content']);
+        $model->addRule(['name', 'content'], 'required')
+            ->addRule(['keywords', 'description',], 'string', ['max' => 500]);
+        return $model;
     }
 }
