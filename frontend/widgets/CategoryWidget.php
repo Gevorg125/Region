@@ -9,67 +9,52 @@
 namespace frontend\widgets;
 
 use yii\base\Widget;
-
+use Yii;
 use common\models\Categories;
 
 
 class CategoryWidget extends Widget
 {
-    public $message;
-    public $tree;
 
     public function init()
     {
         parent::init();
-        if ($this->message === null) {
-            $this->message = 'Welcome user';
-        } else {
-            $this->message = 'Welcome' . $this->message;
-        }
     }
 
-    public static function getMenuRecursive($parent)
+
+    public function run()
     {
+        $category = self::getCatRecursive(0);
+        return $this->render('category', ['category' => $category]);
+    }
+
+    public static function getCatRecursive($parent)
+    {
+        $lang = Yii::$app->language;
         $menus = Categories::find()
-            ->select(['id', 'category_parent_id', 'route'])
-            ->where(['category_parent_id' => $parent,
-                 ] )
+            ->select(['id', 'category_parent_id', 'name', 'route', 'title'])
+            ->where(['category_parent_id' => $parent])
             ->orderBy('order')
             ->asArray()
             ->all();
         $tree = [];
+
         foreach ($menus as $key => $val) {
+
             $i = null;
-            if (!empty(static::getMenuRecursive($val['id']))) {
-                $i = static::getMenuRecursive($val['id']);
+            if (!empty(static::getCatRecursive($val['id']))) {
+                $i = static::getCatRecursive($val['id']);
             }
+            $cat_name = json_decode($val['name'], true);
+            $cat = $cat_name[$lang]['name'];
             $tree[] = [
-                'name' => $val['route'],
+                'title' => $val['title'],
+                'name' => $cat,
                 'items' => $i,
+                'route' => Yii::$app->homeUrl . "category/" . $val['route'],
             ];
         }
 
         return $tree;
     }
-
-   public static function print_list($menu)
-    {
-        echo '<ul >';
-        foreach ($menu as $list_item) {
-            echo '<li >';
-            echo "<a href='#'>{$list_item['name']}</a>";
-            if (array_key_exists('items', $list_item) && is_array($list_item['items']))
-                print_list($list_item['items']);
-            echo '</li>';
-        }
-        echo "</ul>";
-    }
-
-    public function run()
-
-    {
-        $menu = self::getMenuRecursive(0);
-        return $this->render('category', ['menu' => $menu]);
-    }
-
 }

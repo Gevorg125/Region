@@ -1,8 +1,9 @@
 <?php
 
 use yii\helpers\Html;
-use yii\grid\GridView;
+//use yii\grid\GridView;
 use yii\widgets\Pjax;
+use himiklab\sortablegrid\SortableGridView as GridView;
 /* @var $this yii\web\View */
 /* @var $searchModel common\models\search\LocalitySearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
@@ -10,6 +11,7 @@ use yii\widgets\Pjax;
 $this->title = Yii::t('app', 'Localities');
 $this->params['breadcrumbs'][] = $this->title;
 ?>
+
 <div class="locality-index">
 
     <h1><?= Html::encode($this->title) ?></h1>
@@ -27,14 +29,15 @@ $this->params['breadcrumbs'][] = $this->title;
             ['class' => 'yii\grid\SerialColumn'],
 
             'id',
+            'name',
             'title',
             'route',
             'lat',
-            'lng',
+            //'lng',
             //'data',
             //'img_name',
             //'type',
-            //'order',
+            'order',
             //'active',
             //'images:ntext',
             //'videos:ntext',

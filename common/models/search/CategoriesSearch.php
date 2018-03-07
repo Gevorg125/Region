@@ -66,6 +66,7 @@ class CategoriesSearch extends Categories
         ]);
 
         $query->andFilterWhere(['like', 'title', $this->title])
+
             ->andFilterWhere(['like', 'route', $this->route])
             ->andFilterWhere(['like', 'description', $this->description])
             ->andFilterWhere(['like', 'data', $this->data])

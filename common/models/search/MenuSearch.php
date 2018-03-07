@@ -19,7 +19,7 @@ class MenuSearch extends Menu
     {
         return [
             [['id', 'parent', 'order'], 'integer'],
-            [['name', 'route', 'data', 'title', 'active', 'keyword'], 'safe'],
+            [['name', 'route', 'data', 'title', 'active', ], 'safe'],
         ];
     }
 
@@ -69,8 +69,8 @@ class MenuSearch extends Menu
             ->andFilterWhere(['like', 'route', $this->route])
             ->andFilterWhere(['like', 'data', $this->data])
             ->andFilterWhere(['like', 'title', $this->title])
-            ->andFilterWhere(['like', 'active', $this->active])
-            ->andFilterWhere(['like', 'keyword', $this->keyword]);
+            ->andFilterWhere(['like', 'active', $this->active]);
+
 
         return $dataProvider;
     }

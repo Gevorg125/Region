@@ -12,10 +12,8 @@ body {
 }
 
 .wrap > .container {
-    padding: 70px 15px 20px;
-
+    padding: 8% 15px 20px;
     width: 100%;
-
 
 }
 
@@ -106,9 +104,9 @@ a.desc:after {
     border: none;
 }
 
-@media(max-width:767px) {
+@media (max-width: 767px) {
     .nav li > form > button.logout {
-        display:block;
+        display: block;
         text-align: left;
         width: 100%;
         padding: 10px 15px;
@@ -126,21 +124,224 @@ a.desc:after {
 
 /*map*/
 
-#map{
-    width: 99%;
-    height: 500px;
-}
-#axuryan{
+#map {
     width: 99%;
     height: 500px;
 }
 
+#axuryan {
+    width: 99%;
+    height: 500px;
+}
+
+main {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+header{
+    width: 100%;
+    height: auto;
+}
+#liner{
+    height: 40px;
+    width: 100%;
+    background-color:#424b54;
+}
 
 
-/*language*/
- nav .lang {
+#liner .spraid{
+    width: 80%;
+    padding-left: 22%;
+    height: 40px;
+
+}
+
+#liner i{
+    color: #fff;
+
+}
+
+
+.navheader{
+    width: 100%;
+    float: left;
+}
+
+.navheader .logo img{
+    margin-left:5%;
+    float: left;
+}
+
+
+.menu{
     display: block;
+    margin-top: 1%;
+    height: 77px;
     padding: 0;
+}
+.src{
+    box-shadow: inset 0 0 , 0 0 1em grey;
+}
+
+
+
+.cont{
+    width: 100%;
+    padding:3%;
+}
+.fluid {
+    background-color: #fff;
+
+}
+.opt{
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+.default{
+    background-color: #f8f8f8;
+    border-color: #ffffff;
+}
+
+.col-md-3 ul li{
+    width: 100%;
+
+}
+
+.col-md-3 ul li a{
+    max-width: 100%;
+}
+.col-md-12 ul li{
+    width: 100%;
+
+}
+
+.col-md-12 ul li a{
+    max-width: 100%;
+}
+.nav li a{
+    color: #28353d;
+    font-size: 18px;
+    font-family: 'Sylfaen';
+}
+li {
+    padding-top: 1%;
+    list-style-type: none;
+
+}
+
+.list {
+    margin-left: 2px;
+}
+
+.er-item, .er-item a, .dropdown-menu {
+
+    border: none !important;
+    border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .nav .open > a:active, .nav .open > a:visited {
+    background-color: #fff;
+    border-color: #337ab7;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #fff;
+}
+.nav-stacked{
+    min-height: 275px;
+}
+.border {
+    background-color:  #289bb4;
+    font-size: 14px;
+
+}
+.border img {
+    position: relative;
+}
+
+.container form .btn {
+    background-color:  #289bb4;
+}
+
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #28353d;
+
+}
+footer img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .opt {
+        width: 100%;
+        margin: 0;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .opt {
+        width: 100%;
+
+    }
+}
+
+@media only screen and(min-width: 768px) {
+
+
+
+
+}
+@media only screen and (max-width: 480px){
+
+
+
+    .navheader .logo img {
+        margin-left:1px ;
+        width: 200px;
+        height: 57px;
+    }
+    #liner .spraid {
+        margin-left:1px ;
+        width: 100%;
+        height: 40px;
+
+    }
+
+
+}
+
+li {
+    padding-top: 1%;
+    list-style-type: none;
+}
+
+
+
+/*Languages*/
+
+header .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.lang {
+    width: 7%;
+    float: right;
+}
+nav .lang {
+    display:flex;
+    padding: 4%;
     line-height: 0.875rem;
     color: #484848;
     vertical-align: middle;
@@ -148,20 +349,41 @@ a.desc:after {
     font-size: 0.8rem;
     border: none;
     border-radius: 0;
+
     font-weight: 600;
     -moz-appearance: none;
+    -webkit-appearance: none;
 }
 
- nav .lang .drop-down {
+/* line 169, ../sass/screen.scss */
+header nav .lang .drop-down {
     position: relative;
 }
-nav .lang .drop-down .selected div {
+
+header nav .lang .drop-down:after {
+    content: '\f078';
+    color: #484848;
+    font-family: "FontAwesome";
+    font-size: 0.8rem;
+    padding: 0 1px;
+    pointer-events: none;
+    position: absolute;
+    right: 8px;
+    top: 7px;
+    width: 6px;
+}
+
+/* line 182, ../sass/screen.scss */
+header nav .lang .drop-down .selected div {
     display: block;
     padding-right: 18px;
     text-decoration: none;
-    color: #484848;
+    color:#484848;
+
 }
-nav .lang .drop-down .selected div span {
+
+/* line 188, ../sass/screen.scss */
+header nav .lang .drop-down .selected div span {
     line-height: 20.5px;
     cursor: pointer;
     color: #484848;
@@ -169,14 +391,63 @@ nav .lang .drop-down .selected div span {
     display: block;
     font-weight: bold;
 }
-nav .lang .drop-down .options ul {
-    display: none;
+
+/* line 193, ../sass/screen.scss */
+header nav .lang .drop-down .option {
+    position: relative;
+}
+
+header nav .lang .drop-down .options {
+    position: relative;
+}
+
+/* line 196, ../sass/screen.scss */
+header nav .lang .drop-down .options ul {
+    display:none;
     list-style: none;
-    width: 50px;
+   /* width: 50px;*/
     text-align: center;
-    min-width: 50px;
+    /*min-width: 50px;*/
     border: 1px solid;
     flex-wrap: wrap;
     position: absolute;
     right: 0;
+}
+
+/* line 215, ../sass/screen.scss */
+header nav .lang .drop-down .selected span.value, header nav .lang .drop-down .options span.value {
+    display: none;
+}
+
+/* line 218, ../sass/screen.scss */
+header nav .lang .drop-down .options ul li i {
+    padding: 4px;
+    display: block;
+    text-decoration: none;
+    color: #484848 !important;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1rem;
+    font-weight: 600;
+    width: 50px;
+}
+
+/* line 223, ../sass/screen.scss */
+header nav .lang .drop-down .options ul li i:active, header nav .lang .drop-down .options ul li i:hover, header nav .lang .drop-down .options ul li i:focus {
+    /*background-color: #2b1e1e;*/
+    border: none;
+    color: #b13f1c !important;
+    font-weight: 600;
+}
+
+
+.navbar-collapse {
+    width: 75%;
+    float: left;
+}
+
+.menu_items {
+    width: 92%;
+    float: left;
+    text-align: right;
 }

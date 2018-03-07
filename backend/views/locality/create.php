@@ -18,6 +18,7 @@ $this->params['breadcrumbs'][] = $this->title;
         'model' => $model,
         'activeLanguages' => $activeLanguages,
         'finalModel' => $finalModel
+
     ]) ?>
 
 </div>

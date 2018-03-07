@@ -1,35 +1,33 @@
 <?php
-use yii\bootstrap\NavBar;
-use yii\bootstrap\Nav;
+
 use yii\bootstrap;
 
-
-function print_list($menu)
-{
-    foreach ($menu as $div_item) {
-        echo '<div style="border: 1px solid black; width: 20%; ">';
-        print_r($div_item['name']);
-        if (is_array($div_item['items'])) {
-            $i = 0;
-            foreach ($div_item['items'] as $val) {
-                
-                $i++;
-                echo "<br>";
-                echo "<a href='./index.php?r=site%2Fcontent&k=". $val['name']. "'>" .$val['name']."</a>";
-                if ($i == 4) {
-                    break;
-                }
-            }
-            echo "</div>";
-            echo "<br>";
-        } else {
-            echo "</div>";
-            echo "<br>";
-        }
-    }
-};
-
-print_r(print_list($menu));
-
-
-
+?>
+<div class="container cont">
+    <div class="row">
+        <?php if (!empty($category)): ?>
+            <?php
+            ?>
+            <?php foreach ($category as $key => $cat): ?>
+                <div class="col-md-3">
+                    <ul class="nav nav-stacked">
+                        <li class="border">
+                            <img src="img/<?= $cat['title']; ?>.png">
+                            <span class="list"> <?php echo $cat['name'] ?></span>
+                        </li>
+                        <?php if (is_array($cat['items'])): ?>
+                            <?php $i = 0; ?>
+                            <?php foreach ($cat['items'] as $k => $v): ?>
+                                <?php $i++; ?>
+                                <li><a href="<?= $v['route']; ?>"><?= $v['name']; ?></a></li>
+                                <?php if ($i == 3) : ?>
+                                    <?php break; ?>
+                                <?php endif; ?>
+                            <?php endforeach; ?>
+                        <?php endif; ?>
+                    </ul>
+                </div>
+            <?php endforeach; ?>
+        <?php endif; ?>
+    </div>
+</div>

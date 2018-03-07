@@ -7,7 +7,7 @@ use yii\widgets\Pjax;
 /* @var $searchModel common\models\search\MenuSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = Yii::t('app', 'Menus');
+$this->title = Yii::t('app', 'Menu');
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="menu-index">
@@ -34,7 +34,7 @@ $this->params['breadcrumbs'][] = $this->title;
             //'data',
             //'title',
             //'active',
-            //'keyword',
+
 
             ['class' => 'yii\grid\ActionColumn'],
         ],

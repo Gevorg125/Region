@@ -1,0 +1,1869 @@
+[09-Feb-2018 06:55:04 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 44
+[09-Feb-2018 06:55:25 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 44
+[09-Feb-2018 06:56:05 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 47
+[09-Feb-2018 06:56:40 UTC] PHP Fatal error:  Class 'ActiveForm' not found in /home/childgitc/public_html/backend/views/sheet/view.php on line 29
+[09-Feb-2018 07:07:33 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 53
+[09-Feb-2018 07:17:38 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 74
+[09-Feb-2018 07:24:30 UTC] PHP Fatal error:  Class 'ArrayHelper' not found in /home/childgitc/public_html/backend/views/sheet/view.php on line 97
+[09-Feb-2018 08:01:57 UTC] PHP Fatal error:  Call to a member function label() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 110
+[09-Feb-2018 08:29:27 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/childgitc/public_html/backend/views/sheet/view.php on line 253
+[09-Feb-2018 08:31:59 UTC] PHP Fatal error:  Class 'RelatedModel' not found in /home/childgitc/public_html/backend/views/sheet/view.php on line 145
+[20-Feb-2018 07:04:07 UTC] PHP Fatal error:  Class 'common\models\search\HotLineSearch' not found in /home/childgitc/public_html/backend/controllers/HotLineController.php on line 38
+[20-Feb-2018 07:22:34 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:22:55 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:23:10 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:23:38 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:24:17 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:44:24 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:44:43 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:45:02 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:46:22 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:47:10 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:47:13 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:48:42 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:52:12 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:54:52 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 07:56:51 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 08:09:18 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 08:14:01 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 08:18:35 UTC] PHP Fatal error:  Class 'kartik\datetime\DateTimePicker' not found in /home/childgitc/public_html/backend/views/hot-line/_form.php on line 48
+[20-Feb-2018 08:29:43 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:29:46 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:29:53 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:31:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 79
+[20-Feb-2018 08:32:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 79
+[20-Feb-2018 08:37:33 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:39:08 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:39:54 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:40:23 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:40:30 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:41:49 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 08:59:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 80
+[20-Feb-2018 09:00:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 75
+[20-Feb-2018 09:01:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 75
+[20-Feb-2018 09:01:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childgitc/public_html/backend/views/outreach/view.php on line 75
+[20-Feb-2018 12:12:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/childgitc/public_html/backend/views/outreach/view.php on line 54
+[20-Feb-2018 12:29:26 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 12:40:50 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 12:42:21 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 12:44:29 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 12:44:56 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 12:45:26 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 13:14:12 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 14:35:07 UTC] PHP Fatal error:  Class 'ArrayHelper' not found in /home/childgitc/public_html/backend/views/foster/_form.php on line 20
+[20-Feb-2018 14:35:07 UTC] PHP Fatal error:  Class 'ArrayHelper' not found in /home/childgitc/public_html/backend/views/foster/_form.php on line 20
+[20-Feb-2018 14:38:04 UTC] PHP Fatal error:  Class 'Sheet' not found in /home/childgitc/public_html/backend/views/foster/_form.php on line 21
+[20-Feb-2018 14:38:25 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 14:38:29 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 14:40:05 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 14:40:38 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[20-Feb-2018 14:42:13 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/childgitc/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php on line 859
+[21-Feb-2018 09:16:10 UTC] PHP Fatal error:  Class 'Country' not found in /home/childgitc/public_html/backend/views/foster/view.php on line 52
+[02-Mar-2018 06:26:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 06:26:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 06:26:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 06:26:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:36:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:36:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:36:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:36:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:38:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:43:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:44:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:44:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:45:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:46:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:47:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:47:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:49:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:50:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:53:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:53:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:54:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:55:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:56:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:57:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:57:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:57:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:57:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:59:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 08:59:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:01:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:01:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:03:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:03:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:05:40 UTC] PHP Fatal error:  Uncaught exception 'yii\base\InvalidArgumentException' with message 'Invalid path alias: @root' in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/eregion/public_html/common/config/params-local.php(13): yii\BaseYii::getAlias('@root', '/home/eregion/p...')
+#1 /home/eregion/public_html/backend/config/main.php(4): require('/home/eregion/p...')
+#2 /home/eregion/public_html/backend/web/index.php(13): require('/home/eregion/p...')
+#3 {main}
+  thrown in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php on line 154
+[02-Mar-2018 09:06:04 UTC] PHP Fatal error:  Uncaught exception 'yii\base\InvalidArgumentException' with message 'Invalid path alias: @root' in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/eregion/public_html/common/config/params-local.php(13): yii\BaseYii::getAlias('@root', '/home/eregion/p...')
+#1 /home/eregion/public_html/backend/config/main.php(4): require('/home/eregion/p...')
+#2 /home/eregion/public_html/backend/web/index.php(13): require('/home/eregion/p...')
+#3 {main}
+  thrown in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php on line 154
+[02-Mar-2018 09:06:07 UTC] PHP Fatal error:  Uncaught exception 'yii\base\InvalidArgumentException' with message 'Invalid path alias: @root' in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/eregion/public_html/common/config/params-local.php(13): yii\BaseYii::getAlias('@root', '/home/eregion/p...')
+#1 /home/eregion/public_html/backend/config/main.php(4): require('/home/eregion/p...')
+#2 /home/eregion/public_html/backend/web/index.php(13): require('/home/eregion/p...')
+#3 {main}
+  thrown in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php on line 154
+[02-Mar-2018 09:06:08 UTC] PHP Fatal error:  Uncaught exception 'yii\base\InvalidArgumentException' with message 'Invalid path alias: @root' in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/eregion/public_html/common/config/params-local.php(13): yii\BaseYii::getAlias('@root', '/home/eregion/p...')
+#1 /home/eregion/public_html/backend/config/main.php(4): require('/home/eregion/p...')
+#2 /home/eregion/public_html/backend/web/index.php(13): require('/home/eregion/p...')
+#3 {main}
+  thrown in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php on line 154
+[02-Mar-2018 09:06:10 UTC] PHP Fatal error:  Uncaught exception 'yii\base\InvalidArgumentException' with message 'Invalid path alias: @root' in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/eregion/public_html/common/config/params-local.php(13): yii\BaseYii::getAlias('@root', '/home/eregion/p...')
+#1 /home/eregion/public_html/backend/config/main.php(4): require('/home/eregion/p...')
+#2 /home/eregion/public_html/backend/web/index.php(13): require('/home/eregion/p...')
+#3 {main}
+  thrown in /home/eregion/public_html/vendor/yiisoft/yii2/BaseYii.php on line 154
+[02-Mar-2018 09:06:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:06:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:07:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:07:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:08:28 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/LocalityController.php on line 126.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/LocalityController.php on line 126.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'WpkUiiOHNb6flW4ed8y5dAAAABw',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/locality/create',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'WpkUiiOHNb6flW4ed8y5dAAAABw',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/locality/create',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'WpkUiiOHNb6flW4ed8y5dAAAABw',
+    'SCRIPT_URL' => '/backend/web/locality/create',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/locality/create',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------14725954601803311740189029506',
+    'CONTENT_LENGTH' => '5900891',
+    'HTTP_COOKIE' => 'PHPSESSID=4ucb40114snu0gckmlcugq07a7; _csrf=5751d407efe8fe6fd1ec6317a8d5eb8a4fd09fd11815cfeb90c5972e0db2b8d3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2211wYH4j0R1MNgRchR5iof4OnGBqorBby%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '34388',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/backend/web/locality/create',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1519981706.84002590179443359375,
+    'REQUEST_TIME' => 1519981706,
+    'argv' => [],
+    'argc' => 0,
+]
+[02-Mar-2018 09:09:23 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/LocalityController.php on line 126.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/LocalityController.php on line 126.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'WpkUwlVCnEh5z8uyk@hzwAAAAAY',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/locality/create',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'WpkUwlVCnEh5z8uyk@hzwAAAAAY',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/locality/create',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'WpkUwlVCnEh5z8uyk@hzwAAAAAY',
+    'SCRIPT_URL' => '/backend/web/locality/create',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/locality/create',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/locality/create',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------14725954601803311740189029506',
+    'CONTENT_LENGTH' => '2243',
+    'HTTP_COOKIE' => 'PHPSESSID=4ucb40114snu0gckmlcugq07a7; _csrf=5751d407efe8fe6fd1ec6317a8d5eb8a4fd09fd11815cfeb90c5972e0db2b8d3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2211wYH4j0R1MNgRchR5iof4OnGBqorBby%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '32466',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/backend/web/locality/create',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1519981762.84420490264892578125,
+    'REQUEST_TIME' => 1519981762,
+    'argv' => [],
+    'argc' => 0,
+]
+[02-Mar-2018 09:09:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:09:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:15:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:19:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:19:22 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/eregion/public_html/backend/controllers/LocalityController.php on line 108
+[02-Mar-2018 09:19:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:20:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:22:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:22:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:22:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:22:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:22:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:23:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:23:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:28:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:28:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:28:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:28:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 09:28:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:38:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:38:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:38:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:44:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:56:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:57:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:58:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:58:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:58:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 10:58:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:06:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:06:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:06:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:06:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:06:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:07:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:09:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:09:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:09:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:11:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:13:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:14:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 11:15:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:01:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:02:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:04:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:04:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:04:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:05:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:05:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:05:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:05:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:05:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:06:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:06:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:06:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:06:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:08:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:09:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:09:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:12:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:12:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:13:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:13:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:13:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:13:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:14:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:15:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:16:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:16:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:17:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:17:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:30:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:30:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:31:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:31:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:31:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:31:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:37:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:37:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:38:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 12:39:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:13:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:13:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:13:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:15:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:15:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:19:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:19:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:19:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:19:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:19:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:20:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:20:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:20:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:21:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:21:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:21:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[02-Mar-2018 13:45:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:11 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/eregion/public_html/backend/views/categories/_form.php on line 16
+[03-Mar-2018 07:16:14 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/eregion/public_html/backend/views/categories/_form.php on line 16
+[03-Mar-2018 07:16:18 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/eregion/public_html/backend/views/categories/_form.php on line 16
+[03-Mar-2018 07:16:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:16:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:17:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:17:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:18:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:33:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:33:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:33:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:34:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:34:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:34:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:35:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:35:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:35:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:35:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:35:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:36:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:36:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:36:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:37:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:37:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:38:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:39:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:39:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:39:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:40:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:40:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:58:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:58:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:58:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:58:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 07:58:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:02:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:03:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:07:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:07:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:19:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:19:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:20:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:34:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:37:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:37:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:38:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:50:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:58:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:58:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 08:59:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:00:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:00:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:00:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:01:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:02:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:02:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:14:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:14:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:35:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:36:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:38:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:39:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:39:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:39:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 09:39:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:02:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:05:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:05:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:05:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:05:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:08:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:10:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:11:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:11:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:11:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:12:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 10:12:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:24:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:24:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:25:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:25:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:25:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:25:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:25:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:27:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:27:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:27:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:27:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:27:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:29:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:31:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:31:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:34:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:35:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:35:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:35:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:36:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:36:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:38:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:38:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:38:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:38:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:41:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:42:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:42:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:42:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:43:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:43:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:45:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:46:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:46:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:47:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:48:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:49:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:52:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 11:55:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:13:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:13:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:17:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:19:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:20:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:23:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:24:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:24:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:24:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:30:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:30:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:30:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:31:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:31:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:31:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:34:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:53:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:53:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:53:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:53:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 12:58:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:03:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:10:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:10:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:14:18 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/MenuController.php on line 196.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/MenuController.php on line 196.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'WpqfqjJwf0ZWK696Xhg-BAAAAAs',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/menu/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/menu/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'WpqfqjJwf0ZWK696Xhg-BAAAAAs',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/menu/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/menu/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'WpqfqjJwf0ZWK696Xhg-BAAAAAs',
+    'SCRIPT_URL' => '/backend/web/menu/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/menu/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/menu/update?id=1',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------16205218032488596951669553050',
+    'CONTENT_LENGTH' => '2381',
+    'HTTP_COOKIE' => 'PHPSESSID=ebq1gcl4cabjmuf70tghfcnqm6; _csrf=cd9d37e19254ebc25f28d9ff2b180c2fde9a90e8b4187952110e45f3c2bbd517a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22hBT_gS4_OhuZQ2iXUCTSZId5D3DPO36O%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '7902',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=1',
+    'REQUEST_URI' => '/backend/web/menu/update?id=1',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520082858.7316849231719970703125,
+    'REQUEST_TIME' => 1520082858,
+    'argv' => [
+        'id=1',
+    ],
+    'argc' => 1,
+]
+[03-Mar-2018 13:14:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:15:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:15:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:15:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:18:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:18:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[03-Mar-2018 13:19:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:33:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:33:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:33:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:33:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:34:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:34:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:36:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:36:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:36:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:55:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:55:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:55:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:55:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:55:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:56:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:56:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:56:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:57:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 07:58:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:00:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:00:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:01:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:01:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:01:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:01:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:01:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:05:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:05:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:09:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:09:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:09:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:10:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:15:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:15:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:16:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:16:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:16:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:19:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:19:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:19:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:20:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:20:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:20:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:21:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:22:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:23:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:23:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:30:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:30:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:30:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:30:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:32:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:32:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:32:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:32:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:33:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:33:35 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:37:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:37:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:37:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:38:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:39:56 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0CXA30wMdRHDhyd16bQAAAABU',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0CXA30wMdRHDhyd16bQAAAABU',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0CXA30wMdRHDhyd16bQAAAABU',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=24',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------1333172911236745863464495',
+    'CONTENT_LENGTH' => '3562',
+    'HTTP_COOKIE' => 'language=6041df5eb23470484a1f3a9d31a57f5f2adcf97d8dd8c550ba83fd8524095e61a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22ru%22%3B%7D; _csrf=8473aaff94bc346fd6b40687ccd928be9be4524656238a245fd91cab7c1c4f36a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222dE7Eufoy8ZbPKiCeD7fZ9oK1mikZSR2%22%3B%7D; PHPSESSID=mp4qu8k2iq32mlrtv6sj34lns2',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '32639',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=24',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=24',
+    'REQUEST_URI' => '/backend/web/categories/update?id=24',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520239196.2070529460906982421875,
+    'REQUEST_TIME' => 1520239196,
+    'argv' => [
+        'id=24',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 08:40:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:42:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:43:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:45:00 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0DjKADUE85QSMe73bZwQAAABw',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0DjKADUE85QSMe73bZwQAAABw',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0DjKADUE85QSMe73bZwQAAABw',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------13695536726486571801960582259',
+    'CONTENT_LENGTH' => '3529',
+    'HTTP_COOKIE' => 'language=6041df5eb23470484a1f3a9d31a57f5f2adcf97d8dd8c550ba83fd8524095e61a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22ru%22%3B%7D; _csrf=24acbc0b39c35275b06217f838dea5478b827da588fb42c23a689aee9eaee88ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pkDPJoEaGyCyrsiM85g30HRthNWENGC1%22%3B%7D; PHPSESSID=mp4qu8k2iq32mlrtv6sj34lns2',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '13558',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520239500.8343698978424072265625,
+    'REQUEST_TIME' => 1520239500,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 08:45:10 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0DlQG8xQllq1FFmQacdwAAAC0',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0DlQG8xQllq1FFmQacdwAAAC0',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0DlQG8xQllq1FFmQacdwAAAC0',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------13695536726486571801960582259',
+    'CONTENT_LENGTH' => '3529',
+    'HTTP_COOKIE' => 'language=6041df5eb23470484a1f3a9d31a57f5f2adcf97d8dd8c550ba83fd8524095e61a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22ru%22%3B%7D; _csrf=24acbc0b39c35275b06217f838dea5478b827da588fb42c23a689aee9eaee88ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pkDPJoEaGyCyrsiM85g30HRthNWENGC1%22%3B%7D; PHPSESSID=mp4qu8k2iq32mlrtv6sj34lns2',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '11676',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520239509.9505360126495361328125,
+    'REQUEST_TIME' => 1520239509,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 08:45:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:45:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:46:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:47:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:47:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:47:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:47:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:48:22 UTC] PHP Parse error:  syntax error, unexpected '$old_images' (T_VARIABLE) in /home/eregion/public_html/backend/controllers/LocalityController.php on line 200
+[05-Mar-2018 08:49:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:49:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:49:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:50:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:51:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:51:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 08:51:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:03:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:04:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:04:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:04:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:28:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:48:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:48:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:48:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:49:36 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 201.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0SsH4I19Gv8tAGxhEzJgAAAAY',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0SsH4I19Gv8tAGxhEzJgAAAAY',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0SsH4I19Gv8tAGxhEzJgAAAAY',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=24',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------170912637411389763351484001111',
+    'CONTENT_LENGTH' => '3685',
+    'HTTP_COOKIE' => 'language=55f5ddc3d47358313d4568785bab52dd0964b16abc4f8548aeee9aa9617df8f2a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22en%22%3B%7D; _csrf=6c78de7d5b6b86839b22e6665c9c20f1f5f06cb68e9eeac39e03c83d84cca401a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22w2vHnE3kAvr6RoUgyrxDV2xD0TnazjFK%22%3B%7D; PHPSESSID=mp4qu8k2iq32mlrtv6sj34lns2; FRONTENDSESSID=beq7td7teot75cjv7ouitdnr12',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '42584',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=24',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=24',
+    'REQUEST_URI' => '/backend/web/categories/update?id=24',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520243376.23031711578369140625,
+    'REQUEST_TIME' => 1520243376,
+    'argv' => [
+        'id=24',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 09:49:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:50:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:50:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 09:50:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:51 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:21:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:23:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:23:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:23:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:23:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:24:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:25:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:30:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:30:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:30:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:30:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:31:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:31:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:44:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:45:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:46:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:46:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:46:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:46:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:47:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:47:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:47:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:47:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:47:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:49:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:50:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:51:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:53:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:53:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:53:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:54:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:54:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:55:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:56:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:56:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:58:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:58:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:58:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:58:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:59:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 10:59:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:00:40 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0jWEGpem3B8fn7yuI3cQAAABc',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0jWEGpem3B8fn7yuI3cQAAABc',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0jWEGpem3B8fn7yuI3cQAAABc',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------698633677892929241944588840',
+    'CONTENT_LENGTH' => '3372',
+    'HTTP_COOKIE' => 'PHPSESSID=ioqjrg77mottoca9ne8cm2ion4; _csrf=f87072b16e3b0e6bc49c8e955532dacf7bc045d5f02d3f0c13670c9df0f06c2fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%226QiVt2e0gQxYPDjPZZmiN24VqqewpAb2%22%3B%7D; FRONTENDSESSID=ll6m568c8p0k4s6ounp4v9vg30',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '21000',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520247640.1527531147003173828125,
+    'REQUEST_TIME' => 1520247640,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 11:00:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:01:24 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0jhJGMvdaSjklySHhvfQAAACI',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0jhJGMvdaSjklySHhvfQAAACI',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0jhJGMvdaSjklySHhvfQAAACI',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------189399560713675077331945476262',
+    'CONTENT_LENGTH' => '3593',
+    'HTTP_COOKIE' => 'PHPSESSID=ioqjrg77mottoca9ne8cm2ion4; _csrf=f87072b16e3b0e6bc49c8e955532dacf7bc045d5f02d3f0c13670c9df0f06c2fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%226QiVt2e0gQxYPDjPZZmiN24VqqewpAb2%22%3B%7D; FRONTENDSESSID=ll6m568c8p0k4s6ounp4v9vg30',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '20589',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520247684.2071011066436767578125,
+    'REQUEST_TIME' => 1520247684,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 11:02:14 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0jtkK19qC9eTA@pmYO8wAAAA0',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0jtkK19qC9eTA@pmYO8wAAAA0',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0jtkK19qC9eTA@pmYO8wAAAA0',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------189399560713675077331945476262',
+    'CONTENT_LENGTH' => '3593',
+    'HTTP_COOKIE' => 'PHPSESSID=ioqjrg77mottoca9ne8cm2ion4; _csrf=f87072b16e3b0e6bc49c8e955532dacf7bc045d5f02d3f0c13670c9df0f06c2fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%226QiVt2e0gQxYPDjPZZmiN24VqqewpAb2%22%3B%7D; FRONTENDSESSID=ll6m568c8p0k4s6ounp4v9vg30',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '60702',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520247734.240509033203125,
+    'REQUEST_TIME' => 1520247734,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 11:04:14 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 208.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp0kLs5FTTUznkWLhUGm8AAAABY',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp0kLs5FTTUznkWLhUGm8AAAABY',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/update',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp0kLs5FTTUznkWLhUGm8AAAABY',
+    'SCRIPT_URL' => '/backend/web/categories/update',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/update',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/update?id=10',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------189399560713675077331945476262',
+    'CONTENT_LENGTH' => '3593',
+    'HTTP_COOKIE' => 'PHPSESSID=ioqjrg77mottoca9ne8cm2ion4; _csrf=f87072b16e3b0e6bc49c8e955532dacf7bc045d5f02d3f0c13670c9df0f06c2fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%226QiVt2e0gQxYPDjPZZmiN24VqqewpAb2%22%3B%7D; FRONTENDSESSID=ll6m568c8p0k4s6ounp4v9vg30',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '47355',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=10',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'id=10',
+    'REQUEST_URI' => '/backend/web/categories/update?id=10',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520247854.7079970836639404296875,
+    'REQUEST_TIME' => 1520247854,
+    'argv' => [
+        'id=10',
+    ],
+    'argc' => 1,
+]
+[05-Mar-2018 11:04:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:06:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:07:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/eregion/public_html/backend/views/categories/view.php on line 46
+[05-Mar-2018 11:10:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:12:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:12:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:12:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:13:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:14:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:14:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:15:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:15:13 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:15:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:18:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:18:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:18:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:20:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:20:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:20:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:20:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:20:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:22:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:22:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:22:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:23:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:23:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:23:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:25:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:25:18 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:25:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:28:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:28:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:28:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:28:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:29:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:29:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:29:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:31:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:31:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:31:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:31:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:32:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:32:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:33:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:33:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:34:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:34:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:34:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:35:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:35:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:35:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:36:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:36:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:39:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:40:12 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:40:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:40:27 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:40:43 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:41:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:42:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:42:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:44:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:44:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:44:10 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:45:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:45:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:45:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 11:45:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 12:57:16 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:17:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:17:44 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:17:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:18:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:18:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:18:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:19:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:19:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:19:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:19:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:24:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:24:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:25:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[05-Mar-2018 13:25:17 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:26:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:26:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:27:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:27:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:27:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:27:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:28:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:33:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 11:33:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:00 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:25 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp6EQf7RRUAAs-PChzjqrgAAACA',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp6EQf7RRUAAs-PChzjqrgAAACA',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp6EQf7RRUAAs-PChzjqrgAAACA',
+    'SCRIPT_URL' => '/backend/web/categories/create',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/create',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------490699832486564696558226289',
+    'CONTENT_LENGTH' => '3308',
+    'HTTP_COOKIE' => 'language=901d92deeddca6e5230149dc94a9983964275b35a856bfc01cbb9bbf2b710302a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22hy%22%3B%7D; PHPSESSID=fcv99pidl8s2nku2j5p542rri7; _csrf=d73b682d7e9bbb62dae1acbf90ee8dc1f6613b2ab996ecda3d7873005ff8d125a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22bW3N2voKmbB_FP1yFB3X2lm22kSwIP5B%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '29122',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/backend/web/categories/create',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520337985.1242809295654296875,
+    'REQUEST_TIME' => 1520337985,
+    'argv' => [],
+    'argc' => 0,
+]
+[06-Mar-2018 12:06:33 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:06:56 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp6EYKBgtevZhG1UTNV0yQAAABw',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp6EYKBgtevZhG1UTNV0yQAAABw',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp6EYKBgtevZhG1UTNV0yQAAABw',
+    'SCRIPT_URL' => '/backend/web/categories/create',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/create',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------319417150988103246654030964',
+    'CONTENT_LENGTH' => '3308',
+    'HTTP_COOKIE' => 'language=901d92deeddca6e5230149dc94a9983964275b35a856bfc01cbb9bbf2b710302a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22hy%22%3B%7D; PHPSESSID=fcv99pidl8s2nku2j5p542rri7; _csrf=d73b682d7e9bbb62dae1acbf90ee8dc1f6613b2ab996ecda3d7873005ff8d125a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22bW3N2voKmbB_FP1yFB3X2lm22kSwIP5B%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '57764',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/backend/web/categories/create',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520338016.591042995452880859375,
+    'REQUEST_TIME' => 1520338016,
+    'argv' => [],
+    'argc' => 0,
+]
+[06-Mar-2018 12:07:05 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:09:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:09:58 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/eregion/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/eregion/public_html/backend/controllers/CategoriesController.php on line 122.' in /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/eregion/public_html/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/eregion/public_html/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/eregion/public_html/backend/web/index.php(17): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Yerevan',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Wp6FFUwMhlmn2ZhsEn6@DwAAAEE',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Wp6FFUwMhlmn2ZhsEn6@DwAAAEE',
+    'REDIRECT_SCRIPT_URL' => '/backend/web/categories/create',
+    'REDIRECT_SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php55',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Wp6FFUwMhlmn2ZhsEn6@DwAAAEE',
+    'SCRIPT_URL' => '/backend/web/categories/create',
+    'SCRIPT_URI' => 'http://e-region.tk/backend/web/categories/create',
+    'HTTP_HOST' => 'e-region.tk',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://e-region.tk/backend/web/categories/create',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=---------------------------85407251920971637461478933088',
+    'CONTENT_LENGTH' => '3358',
+    'HTTP_COOKIE' => 'language=901d92deeddca6e5230149dc94a9983964275b35a856bfc01cbb9bbf2b710302a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22hy%22%3B%7D; PHPSESSID=fcv99pidl8s2nku2j5p542rri7; _csrf=d73b682d7e9bbb62dae1acbf90ee8dc1f6613b2ab996ecda3d7873005ff8d125a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22bW3N2voKmbB_FP1yFB3X2lm22kSwIP5B%22%3B%7D',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (cPanel) OpenSSL/1.0.2n mod_bwlimited/1.4',
+    'SERVER_NAME' => 'e-region.tk',
+    'SERVER_ADDR' => '144.76.222.106',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '46.19.100.138',
+    'DOCUMENT_ROOT' => '/home/eregion/public_html',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@e-region.tk',
+    'SCRIPT_FILENAME' => '/home/eregion/public_html/backend/web/index.php',
+    'REMOTE_PORT' => '49771',
+    'REDIRECT_URL' => '/backend/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/backend/web/categories/create',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php55',
+    'ORIG_PATH_INFO' => '/backend/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/eregion/public_html/backend/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php55',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1520338197.9259788990020751953125,
+    'REQUEST_TIME' => 1520338197,
+    'argv' => [],
+    'argc' => 0,
+]
+[06-Mar-2018 12:16:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:17:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:17:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:17:34 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:18:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:20:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:20:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:20:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:20:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:20:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:23:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:23:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:24:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:24:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:24:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:24:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:24:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:25:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:25:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:25:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:26:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:26:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:26:54 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:26:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:28:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:28:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:28:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:28:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:29:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:29:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:29:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:29:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:31:36 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:31:38 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:32:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:32:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:32:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:36:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:37:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:37:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:37:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:37:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:37:41 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 12:59:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:00:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:00:14 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:04:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:04:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:04:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:04:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:04:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:05:20 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:05:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:05:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:05:24 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:07:30 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:07:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:07:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:07:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:08:32 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:09:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:09:09 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:09:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:09:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:10:04 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:10:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:10:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:10:45 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:11:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:11:49 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:12:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:12:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:12:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:12:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:12:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:13:21 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:14:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:14:37 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:14:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:03 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:16:25 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:18:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:18:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:22:26 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:23:19 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:24:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:24:22 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:25:11 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:25:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:26:56 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:29:07 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:30:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:32:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:33:29 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:33:48 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:36:42 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:36:55 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:37:50 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:38:23 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:38:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:43:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:43:39 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:43:40 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:44:58 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:45:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:45:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:45:06 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:49:28 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:49:31 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:49:46 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:49:52 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:49:53 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:50:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:50:59 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:51:01 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3
+[06-Mar-2018 13:51:02 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/eregion/public_html/backend/views/site/error.php on line 3

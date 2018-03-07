@@ -30,17 +30,21 @@ $this->params['breadcrumbs'][] = $this->title;
         'attributes' => [
             'id',
             'category_parent_id',
+
+            'name',
             'title',
             'route',
-            'description',
+
+
             'data',
             'order',
             'date',
             'img_name',
             'active',
-            'images:ntext',
-            'videos:ntext',
-        ],
-    ]) ?>
+            'images',
+
+]]);
+
+    ?>
 
 </div>

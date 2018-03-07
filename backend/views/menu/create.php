@@ -16,6 +16,8 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <?= $this->render('_form', [
         'model' => $model,
+        'activeLanguages' => $activeLanguages,
+        'finalModel' => $finalModel
     ]) ?>
 
 </div>

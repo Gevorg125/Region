@@ -30,11 +30,11 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'data') ?>
 
-    <?php // echo $form->field($model, 'title') ?>
+    <?php  echo $form->field($model, 'title') ?>
 
     <?php // echo $form->field($model, 'active') ?>
 
-    <?php // echo $form->field($model, 'keyword') ?>
+
 
     <div class="form-group">
         <?= Html::submitButton(Yii::t('app', 'Search'), ['class' => 'btn btn-primary']) ?>

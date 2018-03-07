@@ -10,7 +10,7 @@ use Yii;
  * @property int $id
  * @property string $name
  * @property string $code
- * @property string $active
+ * @property string $is_active
  */
 class Lang extends \yii\db\ActiveRecord
 {
@@ -28,7 +28,7 @@ class Lang extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['name', 'code', 'active'], 'required'],
+            [['name', 'code', 'is_active'], 'required'],
             [['active'], 'string'],
             [['name'], 'string', 'max' => 32],
             [['code'], 'string', 'max' => 31],
@@ -44,7 +44,7 @@ class Lang extends \yii\db\ActiveRecord
             'id' => Yii::t('app', 'ID'),
             'name' => Yii::t('app', 'Name'),
             'code' => Yii::t('app', 'Code'),
-            'active' => Yii::t('app', 'Active'),
+            'is_active' => Yii::t('app', 'Active'),
         ];
     }
 }

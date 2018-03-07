@@ -1,74 +1,115 @@
 <?php
 $params = array_merge(
-    require __DIR__ . '/../../common/config/params.php',
-    require __DIR__ . '/../../common/config/params-local.php',
-    require __DIR__ . '/params.php',
-    require __DIR__ . '/params-local.php'
-);
 
+    require(__DIR__ . '/../../common/config/params.php'),
+
+    require(__DIR__ . '/../../common/config/params-local.php'),
+
+    require(__DIR__ . '/params.php'), require(__DIR__ . '/params-local.php')
+
+);
 return [
     'id' => 'app-frontend',
+    'name' => 'e-region',
+//    'homeUrl' => '/', // hosting config
+
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
+    'language' => 'hy',
     'controllerNamespace' => 'frontend\controllers',
+    'modules' => [
+
+        // Yii2-user configuration frontend
+
+
+
+    ],
     'components' => [
-        'request' => [
-            'csrfParam' => '_csrf-frontend',
+
+
+        'urlManager' => [
+
+//            'class' => '\frontend\components\MyUrlManager',
+
+            'class' => 'yii\web\UrlManager',
+
+            'enablePrettyUrl' => true,
+
+            'showScriptName' => false,
+
+            'rules' => [
+                'locality/<route>' => 'locality/index',
+
+                'category/<route>' => 'category/index',
+
+                '<controller:\w+>/<id:\d+>' => '<controller>/view',
+
+                '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
+
+                '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
+
+            ],
+
         ],
-        'user' => [
-            'identityClass' => 'common\models\User',
-            'enableAutoLogin' => true,
-            'identityCookie' => ['name' => '_identity-frontend', 'httpOnly' => true],
-        ],
+
 
         'session' => [
-            // this is the name of the session cookie used for login on the frontend
-            'name' => 'advanced-frontend',
+            'name' => 'FRONTENDSESSID',
 
+            'cookieParams' => [
+
+                'httpOnly' => true,
+
+                'path' => 'http://e-region.tk/',
+
+            ],
 
         ],
-        'log' => [
-            'traceLevel' => YII_DEBUG ? 3 : 0,
-            'targets' => [
-                [
-                    'class' => 'yii\log\FileTarget',
-                    'levels' => ['error', 'warning'],
+
+        'view' => [
+
+            'theme' => [
+
+                'pathMap' => [
+
+                    '@dektrium/user/views' => '@app/views/user',
+
                 ],
+
             ],
+
         ],
+
+        'log' => [
+
+            'traceLevel' => YII_DEBUG ? 3 : 0,
+
+            'targets' => [
+
+                [
+
+                    'class' => 'yii\log\FileTarget',
+
+                    'levels' => ['error', 'warning'],
+
+                ],
+
+            ],
+
+        ],
+
         'errorHandler' => [
+
             'errorAction' => 'site/error',
+
         ],
 
-        /*
-        'urlManager' => [
-            'enablePrettyUrl' => true,
-            'showScriptName' => false,
-            'rules' => [
-            ],
-        ],
-        */
     ],
-    'modules' => [
-        'user' => [
-            // following line will restrict access to admin controller from frontend application
-            'as frontend' => 'dektrium\user\filters\FrontendFilter',
-        ],
-
-/*
-        'urlManager' => [
-           'class' => 'yii\web\UrlManager',
-            'baseUrl'=>'/e-region/',
-            'enablePrettyUrl' => true,
-            'showScriptName' => false,
-            'rules' => [
-               '<controller:\w+>/<id:\d+>'=>'<controller>/view',
-                '<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
-                '<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
-
-            ],
-        ],*/
-
+    'as beforeRequest' => [
+        'class' => '\frontend\components\CheckLang'
     ],
     'params' => $params,
 ];
+
+
+

@@ -157,7 +157,7 @@ INSERT INTO `lang` (`id`, `name`, `code`, `active`) VALUES
 -- --------------------------------------------------------
 
 --
--- Table structure for table `locality`
+-- Table structure for table `data`
 --
 
 CREATE TABLE `locality` (
@@ -177,7 +177,7 @@ CREATE TABLE `locality` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Dumping data for table `locality`
+-- Dumping data for table `data`
 --
 
 INSERT INTO `locality` (`id`, `name`, `title`, `route`, `lat`, `lng`, `data`, `img_name`, `type`, `order`, `active`, `images`, `videos`) VALUES
@@ -387,7 +387,7 @@ ALTER TABLE `lang`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `locality`
+-- Indexes for table `data`
 --
 ALTER TABLE `locality`
   ADD PRIMARY KEY (`id`);
@@ -449,7 +449,7 @@ ALTER TABLE `categories`
 ALTER TABLE `lang`
   MODIFY `id` tinyint(1) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 --
--- AUTO_INCREMENT for table `locality`
+-- AUTO_INCREMENT for table `data`
 --
 ALTER TABLE `locality`
   MODIFY `id` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;

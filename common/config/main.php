@@ -29,23 +29,17 @@ return [
                 'recoverySubject' => 'Recovery',
             ],
         ],
-       
     ],
     'components' => [
         'cache' => [
             'class' => 'yii\caching\FileCache',
         ],
-        'elasticsearch' => [
-            'class' => 'yii\elasticsearch\Connection',
-            'nodes' => [
-                ['http_address' => '127.0.0.1:9200'],
-// configure more hosts if you have a cluster
-            ],
-        ],
 // Yii2-admin DbManager
         'authManager' => [
             'class' => 'yii\rbac\DbManager',
         ],
+
+
         // Checked
         'checked' => [
             'class' => 'common\components\Checked'
@@ -56,7 +50,7 @@ return [
         ],
         'urlManagerBackend' => [
             'class' => 'yii\web\urlManager',
-            'baseUrl' => 'http://localhost',
+            'baseUrl' => 'http://localhoat/backend/web/',
         ],
         'urlManagerCommon' => [
             'class' => 'yii\web\urlManager',

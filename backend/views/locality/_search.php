@@ -20,13 +20,15 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'id') ?>
 
+    <?= $form->field($model, 'name') ?>
+
     <?= $form->field($model, 'title') ?>
 
     <?= $form->field($model, 'route') ?>
 
     <?= $form->field($model, 'lat') ?>
 
-    <?= $form->field($model, 'lng') ?>
+    <?php // echo $form->field($model, 'lng') ?>
 
     <?php // echo $form->field($model, 'data') ?>
 

@@ -10,6 +10,7 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use common\models\Lang;
 
+use yii\web\UploadedFile;
 /**
  * CategoriesController implements the CRUD actions for Categories model.
  */
@@ -42,6 +43,7 @@ class CategoriesController extends Controller
         return $this->render('index', [
             'searchModel' => $searchModel,
             'dataProvider' => $dataProvider,
+
         ]);
     }
 
@@ -67,19 +69,63 @@ class CategoriesController extends Controller
     {
         $model = new Categories();
         $finalModel = [];
-        $activeLanguages = Lang::find()->where(['active' => '1'])->asArray()->all();
+        $name = [];
+        $activeLanguages = Lang::find()->where(['is_active' => '1'])->asArray()->all();
+
         foreach ($activeLanguages as $lang) {
             $langCode = $lang['code'];
-            $finalModel[$langCode] = $this->generateDynamicModelforLanguage($langCode);
+            $finalModel[$langCode] = $this->generateDynamicModelforLanguage();
         }
         if ($model->load(Yii::$app->request->post())) {
             //title convert to route
             $title = strtolower(trim($model->title));
             $title = str_replace(" ", "-", $title);
             $model->route = $title;
-            $model->data = json_encode(Yii::$app->request->post('DynamicModel'));
+            $data = Yii::$app->request->post('DynamicModel');
+            $videos=Yii::$app->request->post('videos');
+            if($videos!=null){
+                $videos_name=[];
+                foreach($videos as $key) {
+                    $videos_name[]=$key;
+                }
+                $model->videos=json_encode($videos_name);
+            }
+            foreach ($activeLanguages as $lang) {
+
+                $langCode = $lang['code'];
+
+                $name[$langCode]['name'] = $data[$langCode]['name'];
+                unset($data[$langCode]['name']);
+
+            }
+
+            
+            if (UploadedFile::getInstance($model, 'img_name') != null) {
+                $img_name = UploadedFile::getInstance($model, 'img_name');
+                $new_img_name =  $model->route . '.' . $img_name->extension;
+
+                $img_name->saveAs(Yii::getAlias('@root')
+                    . Yii::$app->params['frontend_upload_path'] . $new_img_name);
+                $model->img_name = $new_img_name;
+            }
+            if (UploadedFile::getInstances($model, 'images') != null) {
+                $images_name = UploadedFile::getInstances($model, 'images');
+
+
+                $names_images_array = [];
+
+                foreach ($images_name as $key => $file) {
+                    $new_images = $model->route . "_" . $key . '.' . $file->extension;
+                    $file->saveAs(Yii::getAlias('@root')
+                        . Yii::$app->params['frontend_upload_path'] . $new_images);
+                    $names_images_array[] = $new_images;
+                }
+                $model->images = json_encode($names_images_array);
+            }
+            $model->data = json_encode($data);
+            $model->name = json_encode($name);
             if ($model->save()) {
-//                return $this->redirect(['view', 'id' => $model->id]);
+
                 return $this->redirect(['index']);
             } else {
                 print_r($model->getErrors());
@@ -105,21 +151,76 @@ class CategoriesController extends Controller
     {
         $model = $this->findModel($id);
         $finalModel = [];
+        $name = [];
+        $old_img=$model->img_name;
+        $old_images=$model->images;
+        $old_videos=$model->videos;
         $decodedContent = json_decode($model->data, true);
-        $activeLanguages = Lang::find()->where(['active' => '1'])->asArray()->all();
+        $decodedName = json_decode($model->name, true);
+        $activeLanguages = Lang::find()->where(['is_active' => '1'])->asArray()->all();
+
         foreach ($activeLanguages as $lang) {
             $langCode = $lang['code'];
-            $finalModel[$langCode] = $this->generateDynamicModelforLanguage($langCode);            //Loading content
-            $finalModel[$langCode]->name = $decodedContent[$langCode]['name'];
+
+            $finalModel[$langCode] = $this->generateDynamicModelforLanguage();            //Loading content
+            $finalModel[$langCode]->name = $decodedName[$langCode]['name'];
             $finalModel[$langCode]->keywords = $decodedContent[$langCode]['keywords'];
             $finalModel[$langCode]->description = $decodedContent[$langCode]['description'];
             $finalModel[$langCode]->content = $decodedContent[$langCode]['content'];
         }
+
         if ($model->load(Yii::$app->request->post())) {
             $title = $model->title;
             $title = str_replace(" ", "-", strtolower(trim($title)));
             $model->route = $title;
-            $model->data = json_encode(Yii::$app->request->post('DynamicModel'));
+            $data = Yii::$app->request->post('DynamicModel');
+            $videos=Yii::$app->request->post('videos');
+            if($videos!=null){
+                $videos_name=[];
+                foreach($videos as $key) {
+                    $videos_name[]=$key;
+                }
+                $model->videos=json_encode($videos_name);
+            }else{
+                $model->videos = $old_videos;
+            }
+            foreach ($activeLanguages as $lang) {
+
+                $langCode = $lang['code'];
+
+
+                $name[$langCode]['name'] = $data[$langCode]['name'];
+            }
+            if (UploadedFile::getInstance($model, 'img_name') != null) {
+                $img_name = UploadedFile::getInstance($model, 'img_name');
+                $new_img_name =  $model->route . '.' . $img_name->extension;
+
+                $img_name->saveAs(Yii::getAlias('@root')
+                    . Yii::$app->params['frontend_upload_path'] . $new_img_name);
+                $model->img_name = $new_img_name;
+            }else {
+                $model->img_name = $old_img;
+            }
+            if (UploadedFile::getInstances($model, 'images') != null) {
+                $images_name = UploadedFile::getInstances($model, 'images');
+
+
+                $names_images_array = [];
+
+                foreach ($images_name as $key => $file) {
+                    $new_images = $model->route . "_" . $key . '.' . $file->extension;
+                    $file->saveAs(Yii::getAlias('@root')
+                        . Yii::$app->params['frontend_upload_path'] . $new_images);
+                    $names_images_array[] = $new_images;
+                }
+                $model->images = json_encode($names_images_array);
+            }else{
+                $model->images=$old_images;
+            }
+
+            $model->data = json_encode($data, true);
+            $model->name = json_encode($name, true);
+
             if ($model->save()) {
                 return $this->redirect(['view', 'id' => $model->id]);
             } else {
@@ -143,6 +244,13 @@ class CategoriesController extends Controller
      */
     public function actionDelete($id)
     {
+        unlink(Yii::getAlias('@root')
+          . Yii::$app->params['frontend_upload_path'] . $this->findModel($id)->img_name);
+$images=json_decode($this->findModel($id)->images,true);
+foreach ($images as $key) {
+    unlink(Yii::getAlias('@root')
+       . Yii::$app->params['frontend_upload_path'] . $key);
+}
         $this->findModel($id)->delete();
 
         return $this->redirect(['index']);
@@ -163,7 +271,7 @@ class CategoriesController extends Controller
 
         throw new NotFoundHttpException(Yii::t('app', 'The requested page does not exist.'));
     }
-    private function generateDynamicModelforLanguage($langCode)
+    private function generateDynamicModelforLanguage()
     {
         $model = new \yii\base\DynamicModel([
             'name',

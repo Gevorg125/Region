@@ -40,7 +40,7 @@ return array (
     'then' => 'Dan|*',
     'when' => 'Wanneer|*',
   ),
-  'am' => 
+  'hy' => 
   array (
     'and' => 'Եվ|*',
     'background' => 'Կոնտեքստ',

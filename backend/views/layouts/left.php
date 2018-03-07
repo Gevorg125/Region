@@ -91,23 +91,25 @@
 
                     ],
                     [
+                        'label' => 'Menu',
+                        'icon' => 'fa fa-cogs',
+                        'url' => ['/menu/'],
+
+                    ],
+                    [
                         'label' => 'Localities',
                         'icon' => 'fa fa-cogs',
                         'url' => ['/locality/'],
 
                     ],
                     [
-                        'label' => 'Lang',
+                        'label' => 'Languages',
                         'icon' => 'fa fa-cogs',
                         'url' => ['/lang/'],
 
                     ],
-                    [
-                        'label' => 'Menu',
-                        'icon' => 'fa fa-cogs',
-                        'url' => ['/menu/'],
-                        
-                    ],
+
+
                 ],
             ]
         ) ?>

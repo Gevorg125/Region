@@ -12,24 +12,18 @@ return [
     'controllerNamespace' => 'backend\controllers',
     'bootstrap' => ['log'],
     'modules' => [
-        'social' => [
-            // the module class
-            'class' => 'kartik\social\Module',
-            ],
         'mdm' => [
             'class' => 'mdm\admin\Module'
         ],
         'user' => [
             'class' => 'dektrium\user\Module',
             'as backend' => 'dektrium\user\filters\BackendFilter',
-
-            'controllers' => ['profile', 'recovery',  'settings'], // not allowed controller in 'backend'
+            'controllers' => ['profile', 'recovery', 'registration', 'settings'], // not allowed controller in 'backend'
             'enableUnconfirmedLogin' => true,
             'confirmWithin' => 21600,
             'cost' => 12,
             'admins' => ['admin'],
             // Override Model Yii2-user
-
 
             'modelMap' => [
 
@@ -74,32 +68,28 @@ return [
 
             ],
         ],
+        'gridview' =>  [
+            'class' => '\kartik\grid\Module',
+            'downloadAction' => 'gridview/export/download',
+        ]
     ],
-
     'components' => [
-        'authManager' => [
-            'class' => 'yii\rbac\DbManager',
-            'defaultRoles' => [
-                'guest'
-            ]
-        ],
-        'request' => [
-            'csrfParam' => '_csrf-frontend',
-        ],
-        /*
-            'urlManager' => [
-                'class' => 'yii\web\UrlManager',
-                'enablePrettyUrl' => true,
-                'baseUrl' => 'http://localhost/backend/web',
-                'showScriptName' => false,
-                'enablePrettyUrl' => true,
-                'rules' => [
-                    '<controller:\w+>/<id:\d+>' => '<controller>/view',
-                    '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
-                    '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
-                ],
+//        'authManager' => [
+//            'class' => 'yii\rbac\DbManager',
+//            'defaultRoles' => [
+//                'guest'
+//            ]
+//        ],
+//        'request' => [
+//            'csrfParam' => '_csrf-backend',
+//        ],
+        'urlManager' => [
+            'class' => 'yii\web\UrlManager',
+            'enablePrettyUrl' => true,
+            'baseUrl' => 'http://e-region.tk/backend/web',
+            'showScriptName' => false,
 
-            ],*/
+        ],
         'view' => [
             'theme' => [
                 'pathMap' => [
@@ -114,15 +104,42 @@ return [
                 ],
             ],
         ],
-         'user' => [
-//              'identityClass' => 'common\models\User',
-//            // 'baseUrl' => '/',
-//              'enableAutoLogin' => true,
-              'identityCookie' => ['name' => '_identity-backend', 'httpOnly' => true],
-          ],
+//        'user' => [
+//            'identityClass' => 'common\models\User',
+//            'enableAutoLogin' => true,
+//            'identityCookie' => ['name' => '_identity-backend', 'httpOnly' => true],
+//        ],
+//        'session' => [
+//            // this is the name of the session cookie used for login on the backend
+//            'name' => 'advanced-backend',
+//        ],
+        'log' => [
+            'traceLevel' => YII_DEBUG ? 3 : 0,
+            'targets' => [
+                [
+                    'class' => 'yii\log\FileTarget',
+                    'levels' => ['error', 'warning'],
+                ],
+            ],
+        ],
+        'errorHandler' => [
+            'errorAction' => 'site/error',
+        ],
 
     ],
-
+    'as access' => [
+        'class' => 'mdm\admin\components\AccessControl',
+        'allowActions' => [
+            'site/*',
+            'admin/*',
+            '/user/admin/*',
+            'gii/*',
+            'debug/*',
+//            'user/security/login',
+//            'user/registration/register',
+//            'user/registration/resend',
+//            'user/recovery/request',
+        ]
+    ],
     'params' => $params,
 ];
-

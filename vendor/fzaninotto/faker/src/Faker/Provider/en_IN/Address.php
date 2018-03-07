@@ -121,8 +121,8 @@ class Address extends \Faker\Provider\Address
     );
     protected static $streetAddressFormats = array(
         
-        '{{buildingNumber}}, {{locality}},',
-        '{{buildingNumber}}, {{societyName}}, {{locality}}',
+        '{{buildingNumber}}, {{data}},',
+        '{{buildingNumber}}, {{societyName}}, {{data}}',
     );
     public function societySuffix()
     {

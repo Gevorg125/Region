@@ -11,6 +11,7 @@ use Yii;
  * @property int $category_parent_id
  * @property string $title
  * @property string $route
+ * @property resource $name
  * @property string $description
  * @property resource $data
  * @property int $order
@@ -37,8 +38,8 @@ class Categories extends \yii\db\ActiveRecord
     {
         return [
             [['category_parent_id', 'order'], 'integer'],
-            [['route', 'active'], 'required'],
-            [['data', 'active', 'images', 'videos'], 'string'],
+            //[['route', 'active'], 'required'],
+            [['data', 'active', 'name','images', 'videos'], 'string'],
             [['date'], 'safe'],
             [['title', 'description', 'img_name'], 'string', 'max' => 255],
             [['route'], 'string', 'max' => 63],
@@ -51,7 +52,9 @@ class Categories extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
+
             'id' => Yii::t('app', 'ID'),
+            'name' => Yii::t('app', 'Name'),
             'category_parent_id' => Yii::t('app', 'Category Parent ID'),
             'title' => Yii::t('app', 'Title'),
             'route' => Yii::t('app', 'Route'),

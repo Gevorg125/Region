@@ -67,7 +67,7 @@ $form = ActiveForm::begin([
 <div class="lang non_padding  text-uppercase">
     <div class="drop-down">
         <div class="selected">
-
+d
             <div><span>Eng</span></div>
         </div>
         <div class="options">

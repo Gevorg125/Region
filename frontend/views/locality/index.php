@@ -1,4 +1,6 @@
 <?php
 
-print_r($_GET['k']);
+print_r($data);
+
+
 ?>

@@ -8,9 +8,11 @@ use yii\filters\VerbFilter;
 
 use dektrium\user\controllers\SettingsController as baseSettings;
 
-class SettingsController extends baseSettings {
+class SettingsController extends baseSettings
+{
 
-    public function behaviors() {
+    public function behaviors()
+    {
         return [
             'verbs' => [
                 'class' => VerbFilter::className(),
@@ -22,16 +24,17 @@ class SettingsController extends baseSettings {
                 'class' => AccessControl::className(),
                 'rules' => [
                     [
-                        'allow'   => true,
+                        'allow' => true,
                         'actions' => ['profile', 'account', 'confirm', 'networks', 'disconnect', 'contact', 'help', 'deleteimg'],
-                        'roles'   => ['@'],
+                        'roles' => ['@'],
                     ],
                 ],
             ],
         ];
     }
 
-    public function actionProfile() {
+    public function actionProfile()
+    {
         $model = $this->finder->findProfileById(Yii::$app->user->identity->getId());
 
         $this->performAjaxValidation($model);
@@ -50,7 +53,7 @@ class SettingsController extends baseSettings {
             }
 
             if ($model->fileHeader) {
-                $imagepath =  'uploads/header/';
+                $imagepath = 'uploads/header/';
                 $model->image_header = $imagepath . rand(10, 100) . '-' . $model->fileHeader->name;
                 $save_fileHeader = 1;
             }
@@ -75,15 +78,18 @@ class SettingsController extends baseSettings {
         //return parent::actionProfile();
     }
 
-    public function actionAccount() {
+    public function actionAccount()
+    {
         return parent::actionAccount();
     }
 
-    public function actionHelp() {
+    public function actionHelp()
+    {
         return $this->render('help');
     }
 
-    public function actionDeleteimg($id, $field) {
+    public function actionDeleteimg($id, $field)
+    {
 
         $img = $this->findModel($id)->$field;
         if ($img) {
@@ -101,13 +107,13 @@ class SettingsController extends baseSettings {
         return $this->redirect(['/setting/']);
     }
 
-    protected function findModel($id) {
+    protected function findModel($id)
+    {
         if (($model = \dektrium\user\models\Profile::findOne($id)) !== null) {
             return $model;
         } else {
             throw new NotFoundHttpException('The requested page does not exist.');
         }
     }
-
 
 }

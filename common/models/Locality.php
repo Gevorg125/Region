@@ -5,9 +5,10 @@ namespace common\models;
 use Yii;
 
 /**
- * This is the model class for table "locality".
+ * This is the model class for table "data".
  *
  * @property int $id
+ * @property resource $name
  * @property string $title
  * @property string $route
  * @property string $lat
@@ -25,6 +26,7 @@ class Locality extends \yii\db\ActiveRecord
     /**
      * @inheritdoc
      */
+
     public static function tableName()
     {
         return 'locality';
@@ -36,12 +38,15 @@ class Locality extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['title', 'route', 'type', 'order', 'active'], 'required'],
-            [['data', 'active', 'images', 'videos'], 'string'],
+           // [['name', 'title','img_name', 'images','route', 'type', 'order', 'active'], 'required'],
+            [['name', 'data', 'active'], 'string'],
             [['order'], 'integer'],
             [['title', 'img_name'], 'string', 'max' => 255],
             [['route'], 'string', 'max' => 60],
             [['lat', 'lng', 'type'], 'string', 'max' => 11],
+            [['img_name'], 'file', 'skipOnEmpty' => true, 'extensions' => 'png, jpg,jpeg'],
+            [['images'], 'file', 'skipOnEmpty' => true, 'extensions' => 'png, jpg,jpeg'],
+            [['videos'], 'file','extensions' => 'png,jpg,jpeg','maxFiles' => 1],
         ];
     }
 
@@ -52,6 +57,7 @@ class Locality extends \yii\db\ActiveRecord
     {
         return [
             'id' => Yii::t('app', 'ID'),
+            'name' => Yii::t('app', 'Name'),
             'title' => Yii::t('app', 'Title'),
             'route' => Yii::t('app', 'Route'),
             'lat' => Yii::t('app', 'Lat'),

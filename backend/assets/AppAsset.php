@@ -19,6 +19,7 @@ class AppAsset extends AssetBundle
 
     ];
     public $js = [
+        'js/vidoes_input.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',

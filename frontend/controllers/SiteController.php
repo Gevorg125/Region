@@ -1,25 +1,23 @@
 <?php
 namespace frontend\controllers;
 
+
+use common\models\Locality;
 use Yii;
-use yii\base\InvalidParamException;
-use yii\web\BadRequestHttpException;
+
 use yii\web\Controller;
 use yii\filters\VerbFilter;
 use yii\filters\AccessControl;
-use common\models\LoginForm;
-use frontend\models\PasswordResetRequestForm;
-use frontend\models\ResetPasswordForm;
-use frontend\models\SignupForm;
+use common\models\Categories;
+
 use frontend\models\ContactForm;
+use yii\web\Cookie;
 
 /**
  * Site controller
  */
 class SiteController extends Controller
 {
-
-    
 
 
     /**
@@ -77,84 +75,34 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        return $this->render('index');
+
+        $lang = Yii::$app->language;
+        $locality = Locality::find()->select(['id', 'name'])->asArray()->all();
+        $loc = [];
+
+        foreach ($locality as $index => $item) {
+            $content = $item['name'];
+            $content = json_decode($content, true);
+            $loc[$item['id']] = $content[$lang]['name'];
+        }
+
+        $category = Categories::find()->select(['id', 'name'])->asArray()->all();
+
+        $cat = [];
+        foreach ($category as $key => $value) {
+            $content = $value['name'];
+            $content = json_decode($content, true);
+            $cat[$value['id']] = $content[$lang]['name'];
+        }
+
+        return $this->render('index', [
+            'loc' => $loc,
+            'cat' => $cat,
+
+        ]);
     }
 
 
-
-    /**
-     * Displays contact page.
-     *
-     * @return mixed
-     */
-
-    /**
-     * Logs in a user.
-     *
-     * @return mixed
-     */
-//    public function actionLogin()
-//    {
-//        if (!Yii::$app->user->isGuest) {
-//            return $this->goHome();
-//        }
-//
-//        $model = new LoginForm();
-//        if ($model->load(Yii::$app->request->post()) && $model->login()) {
-//            return $this->goBack();
-//        } else {
-//            $model->password = '';
-//
-//            return $this->render('login', [
-//                'model' => $model,
-//            ]);
-//        }
-//    }
-//
-//    /**
-//     * Logs out the current user.
-//     *
-//     * @return mixed
-//     */
-//    public function actionLogout()
-//    {
-//        Yii::$app->user->logout();
-//
-//        return $this->goHome();
-//    }
-//
-//    /**
-//     * Displays contact page.
-//     *
-//     * @return mixed
-//     */
-
-    /**
-     * Logs in a user.
-     *
-     * @return mixed
-     */
-    public function actionLogin()
-    {
-        if (!Yii::$app->user->isGuest) {
-            return $this->goHome();
-        }
-
-        $model = new LoginForm();
-        if ($model->load(Yii::$app->request->post()) && $model->login()) {
-            return $this->goBack();
-        } else {
-            return $this->render('login', [
-                'model' => $model,
-            ]);
-        }
-    }
-
-    /**
-     * Logs out the current user.
-     *
-     * @return mixed
-     */
     public function actionLogout()
     {
         Yii::$app->user->logout();
@@ -187,88 +135,31 @@ class SiteController extends Controller
     }
 
     /**
-     * Displays about page.
+     * Displays content page.
      *
      * @return mixed
      */
-    public function actionAbout()
-    {
-        return $this->render('about');
-    }
+
     public function actionContent()
     {
-        return $this->render('content');
+        $route = Yii::$app->get();
     }
-
-    /**
-     * Signs user up.
-     *
-     * @return mixed
-     */
-
-    public function actionSignup()
+//Set Language
+    public function actionLanguage()
     {
-        $model = new SignupForm();
-        if ($model->load(Yii::$app->request->post())) {
-            if ($user = $model->signup()) {
-                if (Yii::$app->getUser()->login($user)) {
-                    return $this->goHome();
-                }
-            }
+
+        if (Yii::$app->request->post()) {
+
+            Yii::$app->language = Yii::$app->request->post('lang');
+            Yii::$app->session->set('language', Yii::$app->request->post('lang'));
+            $cookie = new Cookie([
+                'name' => 'language',
+                'value' => Yii::$app->request->post('lang')
+            ]);
+
+            $cookie->expire = time() + (60 * 60 * 24 * 365); // (1 year)
+            Yii::$app->getResponse()->getCookies()->add($cookie);
         }
-
-        return $this->render('signup', [
-            'model' => $model,
-        ]);
-    }
-
-    /**
-     * Requests password reset.
-     *
-     * @return mixed
-     */
-    public function actionRequestPasswordReset()
-    {
-        $model = new PasswordResetRequestForm();
-        if ($model->load(Yii::$app->request->post()) && $model->validate()) {
-            if ($model->sendEmail()) {
-                Yii::$app->session->setFlash('success', 'Check your email for further instructions.');
-
-                return $this->goHome();
-            } else {
-                Yii::$app->session->setFlash('error', 'Sorry, we are unable to reset password for the provided email address.');
-            }
-        }
-
-        return $this->render('requestPasswordResetToken', [
-            'model' => $model,
-        ]);
-    }
-
-    /**
-     * Resets password.
-     *
-     * @param string $token
-     * @return mixed
-     * @throws BadRequestHttpException
-     */
-    public function actionResetPassword($token)
-    {
-        try {
-            $model = new ResetPasswordForm($token);
-        } catch (InvalidParamException $e) {
-            throw new BadRequestHttpException($e->getMessage());
-        }
-
-        if ($model->load(Yii::$app->request->post()) && $model->validate() && $model->resetPassword()) {
-            Yii::$app->session->setFlash('success', 'New password saved.');
-
-            return $this->goHome();
-        }
-
-        return $this->render('resetPassword', [
-            'model' => $model,
-        ]);
     }
 
 }
